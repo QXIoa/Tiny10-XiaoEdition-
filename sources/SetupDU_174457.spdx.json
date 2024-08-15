@@ -1,0 +1,1848 @@
+{
+  "files": [
+    {
+      "fileName": ".sl-si/acres.dll.mui",
+      "SPDXID": "SPDXRef-File-sl-si-acres.dll.mui-3A61666074DD568A551C18326141ECF385475FC9",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3a61666074dd568a551c18326141ecf385475fc9"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "60b7ffcd63f4f04b9fad54c4567908ad56ecfb7a84daf205b1c8e3f2d7592c38"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".uk-ua/acres.dll.mui",
+      "SPDXID": "SPDXRef-File-uk-ua-acres.dll.mui-ADF5EB1874FFB5C49DAE713F760D64CC23BEF724",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "adf5eb1874ffb5c49dae713f760d64cc23bef724"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d4508b9d28da7cf80bf0ab1c4692f13c95ac6813ec5e000d864579c2d68b9bb2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".replacementmanifests/microsoft-edge-migration-plugin/edgeupdate.dat",
+      "SPDXID": "SPDXRef-File-replacementmanifests-microsoft-edge-migration-plugin-edgeupdate.dat-31DBF3B7E903F71441306893A28CA05953D0FDD2",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "31dbf3b7e903f71441306893a28ca05953d0fdd2"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "baa9c755c4c9fa2c31eeefbf8df2c46b0077bff93a3f1d79d56c483651f19286"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".ko-kr/acres.dll.mui",
+      "SPDXID": "SPDXRef-File-ko-kr-acres.dll.mui-95C5329EF946E0E5E925033766F21D54495B31DF",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "95c5329ef946e0e5e925033766f21d54495b31df"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3135567823aa83f01a62dda292aba78a47002d9531050cca38b53f0b2cefd99d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".winsetupboot.sys",
+      "SPDXID": "SPDXRef-File-winsetupboot.sys-00BDE2051487317A9B6AFEEF3C4113689FF75907",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "00bde2051487317a9b6afeef3c4113689ff75907"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0962613e8e37f6263a9802d5cf6e7c722eef6fcdc686b1dd6c41f380632d5066"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".sr-latn-rs/acres.dll.mui",
+      "SPDXID": "SPDXRef-File-sr-latn-rs-acres.dll.mui-E29FB766B572A35069584B854B5830C822035819",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e29fb766b572a35069584b854b5830c822035819"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c2bef04b81d6afc34fc48a3622e1ecba60f6d96a91d45edd00af6caf3409accb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".replacementmanifests/fveapi-replacement.man",
+      "SPDXID": "SPDXRef-File-replacementmanifests-fveapi-replacement.man-0936295EBAF2004228AA34BCDEED63F01D4F76F2",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0936295ebaf2004228aa34bcdeed63f01d4f76f2"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bf33a2e277ccf7a1a29a39e4a1d6126e460c72b0d1e06d1335471972c9ee3b47"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".hu-hu/acres.dll.mui",
+      "SPDXID": "SPDXRef-File-hu-hu-acres.dll.mui-DF20ED128363B650725D3A4CD5B062F384ADBA41",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "df20ed128363b650725d3a4cd5b062f384adba41"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d00620ba6e944e68d44bc65817367cd237b42d2ecd08a509d93914dc86961f4d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".sk-sk/acres.dll.mui",
+      "SPDXID": "SPDXRef-File-sk-sk-acres.dll.mui-1793EC45EC1A684B997A2FC042715B9FADE72B09",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1793ec45ec1a684b997a2fc042715b9fade72b09"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "17b0f5e4ebd11edbbbaf9f7f7a78121080aefed962ef0ba896a12bee500da869"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".replacementmanifests/edgemigrationplugin.man",
+      "SPDXID": "SPDXRef-File-replacementmanifests-edgemigrationplugin.man-B02DA4FB03F5E96249D0CDC339E24058AF18E808",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b02da4fb03f5e96249d0cdc339e24058af18e808"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a59aa9dc50cee935225d571e63f96f2477c21830a8514000da1e57b8265dd50f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".he-il/acres.dll.mui",
+      "SPDXID": "SPDXRef-File-he-il-acres.dll.mui-06C1651D42B1B02B4EFB96CACB824748816F4A6B",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "06c1651d42b1b02b4efb96cacb824748816f4a6b"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "156ce9b33c8867c5aec5b9869081c53ff7a99c4aa5ed5eae199989a6df063bb1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".th-th/acres.dll.mui",
+      "SPDXID": "SPDXRef-File-th-th-acres.dll.mui-DB86F4B945FE81181035B0709B59B6B55940CC0A",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "db86f4b945fe81181035b0709b59b6b55940cc0a"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "61a0b352d7cc99a0b3fb5f550d9c3d58e049f50449ea2ef40310a328f10a46a0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".replacementmanifests/microsoft-edge-migration-plugin/edgemigrationplugin.dll",
+      "SPDXID": "SPDXRef-File-replacementmanifests-microsoft-edge-migration-plugin-edgemigrationplugin.dll-7C044770037E77FC08A8DF5D713C83E55150601B",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7c044770037e77fc08a8df5d713c83e55150601b"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6e03a0e36e0013baeae051ec6832f462ae28425f5a842ec048855f2141473400"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".ja-jp/acres.dll.mui",
+      "SPDXID": "SPDXRef-File-ja-jp-acres.dll.mui-6C6AE55B0DEF15146B431835ABB54DE415E1DE97",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6c6ae55b0def15146b431835abb54de415e1de97"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "88f54628d02c8243281d3e6b85f9e2efab477a14cdbb9467d63b523789ff150a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".de-de/acres.dll.mui",
+      "SPDXID": "SPDXRef-File-de-de-acres.dll.mui-21476D0696E174E30C401A2B126E1D1880A41F8A",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "21476d0696e174e30c401a2b126e1d1880a41f8a"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ce88c59dedb76d6dc9940282f190b513232dcadbffa05837d922a18af5cc519c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".appraiser.sdb",
+      "SPDXID": "SPDXRef-File-appraiser.sdb-B8255CD8ADB7C96443419C5199700C4942FA67B8",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b8255cd8adb7c96443419c5199700c4942fa67b8"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4037b650ff3cfbc5f53046a59a2f290f330f86f70fa9b1b94a50ba478180ff79"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".updateagent.dll",
+      "SPDXID": "SPDXRef-File-updateagent.dll-BBB9597CCB48111B61D13ACD58CA021773CEE3E7",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bbb9597ccb48111b61d13acd58ca021773cee3e7"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7b250b5d91824a0b8032e3e5a85ade241cb94cb166476e77a1642cd0562ccd39"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".replacementmanifests/microsoft-onecore-tiledatarepository/tilestoremigrationplugin.dll",
+      "SPDXID": "SPDXRef-File-replacementmanifests-microsoft-onecore-tiledatarepository-tilestoremigrationplugin.dll-A9B5D2F27E99E14D7F8AC82F5C961CD705976495",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a9b5d2f27e99e14d7f8ac82f5c961cd705976495"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "efcbf3b7d1f957a86170889fb5abc4b6fdf259c88821405374c6103f8fdd7940"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".setupplatform.dll",
+      "SPDXID": "SPDXRef-File-setupplatform.dll-7C6F8270BC878192924FC4D0B87FA2B49FB406BC",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7c6f8270bc878192924fc4d0b87fa2b49fb406bc"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6f558faa39db918c22889feaca0ec41bc53fd4ee36269a299fda8e850677f7e8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".pt-br/acres.dll.mui",
+      "SPDXID": "SPDXRef-File-pt-br-acres.dll.mui-82822EF62A0E9C281152C35C3516163235FC3000",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "82822ef62a0e9c281152c35c3516163235fc3000"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8326f2ddd2c12cdb55d3593883379f68bf2f691f8508c0555ae2498d9ee5fee6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".et-ee/acres.dll.mui",
+      "SPDXID": "SPDXRef-File-et-ee-acres.dll.mui-641F18364BCCFBE3DD61A4CF4353C2E47293FE55",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "641f18364bccfbe3dd61a4cf4353c2e47293fe55"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "332fd65eeae6398fa086dd8dce256327a2dc10d64ca0a334394c2664dde49019"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".setupprep.exe",
+      "SPDXID": "SPDXRef-File-setupprep.exe-77917BF801D42E6FAD5C456F2435740190B3BDA6",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "77917bf801d42e6fad5c456f2435740190b3bda6"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "206861837cfedba7e81ae40dd92360052f2f3ae15da4cbfd38a6b4f3ee511881"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".replacementmanifests/edpnotify-replacement.man",
+      "SPDXID": "SPDXRef-File-replacementmanifests-edpnotify-replacement.man-64DDE8927F44EAB4FE410A01EB27FE512C379114",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "64dde8927f44eab4fe410a01eb27fe512c379114"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c2f02139b0a95121fd592f9352fc404a960974fe6a1d20c3b6f0819550787bf3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".windlp.dll",
+      "SPDXID": "SPDXRef-File-windlp.dll-5E58D308F2A3F3EAF72E3D709D18616691B72852",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5e58d308f2a3f3eaf72e3d709d18616691b72852"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "27f7b89a3f98b352218beb9d32742b9322f8fda7d70de0a984005c729bcad989"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".replacementmanifests/microsoft-windows-iis-rm/iismig.dll",
+      "SPDXID": "SPDXRef-File-replacementmanifests-microsoft-windows-iis-rm-iismig.dll-827566629DD41253F95E797372212774FC39220E",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "827566629dd41253f95e797372212774fc39220e"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "99b558bf396616634a3202ea938dfcc63bbd266c4f03db2addf9d12ce0aebaff"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".migisol.dll",
+      "SPDXID": "SPDXRef-File-migisol.dll-6E6D5754305B57FD0927341A19ECEA9A1FFD8A50",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6e6d5754305b57fd0927341a19ecea9a1ffd8a50"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e218b81f794111c1d9f1444faa64e54911f2a600ba6f91ecb577d0722dd79fac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".uninstall.xml",
+      "SPDXID": "SPDXRef-File-uninstall.xml-D03E846F454D918957EAF5275E4A59FBA8BE38B4",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d03e846f454d918957eaf5275e4a59fba8be38b4"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2e3ba087d5767e83a6f78c4171a8b049a041f989003809b5b571c415621b7470"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".zh-cn/acres.dll.mui",
+      "SPDXID": "SPDXRef-File-zh-cn-acres.dll.mui-2F0631511F00499323FF1756E710022A34866D38",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2f0631511f00499323ff1756e710022a34866d38"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "61ecea455dc37a06ce976c754f67ddbbfae9f12a45006ee3fb0acb61e620473f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".reservemanager.dll",
+      "SPDXID": "SPDXRef-File-reservemanager.dll-41A2A2BF88C1F79424DC6C6D2D7BD1DC3CE807E6",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "41a2a2bf88c1f79424dc6c6d2d7bd1dc3ce807e6"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7c3053f2de9fafd3b63ff8bdb392d532a1c2caef5f5a84fbb63ce0dfd48d81ae"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".migsys.dll",
+      "SPDXID": "SPDXRef-File-migsys.dll-1C0F06B4CC8EE8553B27E73D90316E5A4B7A28C0",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1c0f06b4cc8ee8553b27e73d90316e5a4b7a28c0"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bd660e413ad7dfc26c4e2685794c33588f502aee536fe2ebf9bdc604284a567f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".winsetup.dll",
+      "SPDXID": "SPDXRef-File-winsetup.dll-3D74CA361EEB9F4FAFF09E97E3A86A7B9EBFB3F0",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3d74ca361eeb9f4faff09e97e3a86a7b9ebfb3f0"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6cd3d808274e472224a756d4ad13432dd8b6644da89efefe3c6cf8f37b6fe194"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".mediasetupuimgr.dll",
+      "SPDXID": "SPDXRef-File-mediasetupuimgr.dll-7ECC289E4BB63C46CD397D8C51EF0D862DF7F5B3",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7ecc289e4bb63c46cd397d8c51ef0d862df7f5b3"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d499d683df7cff84bfcc655d0e68d1362fc47979aff3bfcdc57cb2f415ea1488"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".tr-tr/acres.dll.mui",
+      "SPDXID": "SPDXRef-File-tr-tr-acres.dll.mui-2D087B86F76A3AEEA464874958F5212D34D91012",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2d087b86f76a3aeea464874958f5212d34d91012"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e9e5f5dff238d63ee368d131e6769112c0a6359ffdda087e8a99f609b152a7c4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".replacementmanifests/microsoft-edge-migration-plugin/edge.dat",
+      "SPDXID": "SPDXRef-File-replacementmanifests-microsoft-edge-migration-plugin-edge.dat-90A028F6CD7DFAF474A01B5E7D1A0753D6B2B8A5",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "90a028f6cd7dfaf474a01b5e7d1a0753d6b2b8a5"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1d9106035722d9a2cc76693535c597cc848323e7d8cef0a3b3b7acf1759a8139"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".it-it/acres.dll.mui",
+      "SPDXID": "SPDXRef-File-it-it-acres.dll.mui-E60F63E4DDEC6072E09EA9B746BE9A5C1B50B31A",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e60f63e4ddec6072e09ea9b746be9a5c1b50b31a"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9536b19009af0be9c1c4a29f2dd061938e9299a422dc053582db0c424ae50d99"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".hr-hr/acres.dll.mui",
+      "SPDXID": "SPDXRef-File-hr-hr-acres.dll.mui-CABFAEB8D440CB01D9B59F63E5E008A9606AAD68",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cabfaeb8d440cb01d9b59f63e5e008a9606aad68"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6efc2a9d7a2ae1bdbbb9984f2baabece39d87d76b4bbb87c8f0d0a9feb71efe4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".da-dk/acres.dll.mui",
+      "SPDXID": "SPDXRef-File-da-dk-acres.dll.mui-944F2C17E1AACE93D643307F53044CC98537E777",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "944f2c17e1aace93d643307f53044cc98537e777"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "66ee490f3e3014b9d8cd920761ed655178e3173bbf48e18a72cf70f351ae4c6d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".acmigration.dll",
+      "SPDXID": "SPDXRef-File-acmigration.dll-5B4C0F68C12DBC6FEFDEFA25B9F9C0506BD605F7",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5b4c0f68c12dbc6fefdefa25b9f9c0506bd605f7"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9ff9e639bdca0d53ccced8ab725d0a4117d9ebd62ecdf9df5e92dfe7e7be0727"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".replacementmanifests/microsoft-hyper-v-migration-replacement.man",
+      "SPDXID": "SPDXRef-File-replacementmanifests-microsoft-hyper-v-migration-replacement.man-3F4D21B735E98C963B8107A02A84A76D97F1DA21",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3f4d21b735e98c963b8107a02a84a76d97f1da21"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e07056fbc5b65cfe6a17cbbe50dde44e1c40b1b9580cdc5fb5ffccf0dddf8575"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".lt-lt/acres.dll.mui",
+      "SPDXID": "SPDXRef-File-lt-lt-acres.dll.mui-ECA866446C2226780E6D8F63797950982FEF1CBC",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "eca866446c2226780e6d8f63797950982fef1cbc"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8739e1745112eede6d9e76c970db4592a7216d069722abafd5f7a241b3219d3b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".upgradeagent.dll",
+      "SPDXID": "SPDXRef-File-upgradeagent.dll-ED9D8A6EA165B6E27828C3AD6D04CD15008C8FC2",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ed9d8a6ea165b6e27828c3ad6d04cd15008c8fc2"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "63e6747bd23d1c502003e05b79f54f06c0db61cd4dd02aa5703ebfb57a30cba7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".replacementmanifests/ppipolicies-general-replacement.man",
+      "SPDXID": "SPDXRef-File-replacementmanifests-ppipolicies-general-replacement.man-C202041345E4ADAC3C4390C5D0DAA3574A26E96E",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c202041345e4adac3c4390c5d0daa3574a26e96e"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f8ad0a7159a53eafe82942e1e3c790a0c2c7f827e333635dad41ab6b67c1364b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".replacementmanifests/microsoft-windows-sxs/sxsmigplugin.dll",
+      "SPDXID": "SPDXRef-File-replacementmanifests-microsoft-windows-sxs-sxsmigplugin.dll-C1B71F2A30E8A3E64C847A4A44164EE25882F1D9",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c1b71f2a30e8a3e64c847a4a44164ee25882f1d9"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c8ac59b7bd2df64e661f0352345b28e14f09aad3ec4b92d39c9c63176fa8ca24"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".unbcl.dll",
+      "SPDXID": "SPDXRef-File-unbcl.dll-ABB42039F01E3728372A803236E020C1ADA44499",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "abb42039f01e3728372a803236e020c1ada44499"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "452cd33ecfa5b5a97cfe13a1eea12e7c1b2869f1f66309ceb402a801da077de9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".dism.exe",
+      "SPDXID": "SPDXRef-File-dism.exe-5B29C7185F7DB34200A157FE30B92D1DCD489153",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5b29c7185f7db34200a157fe30b92d1dcd489153"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9f4475b0636618155a1e6cd38d10400154e23e9820dfe7a52e6b541b0f373bd9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".mighost.exe",
+      "SPDXID": "SPDXRef-File-mighost.exe-CB1F55D3BD370A84C98BB67B30FDE70275DDDC5E",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cb1f55d3bd370a84c98bb67b30fde70275dddc5e"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2e0c3f79294b0a9e92b289232050793a40dc038b0bb98ba3c1339eb2aea72cb2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".migcore.dll",
+      "SPDXID": "SPDXRef-File-migcore.dll-69E057DB21D3D8EF6F38D7CB8B8A0E02DBADE6A7",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "69e057db21d3d8ef6f38d7cb8b8a0e02dbade6a7"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9bca5edf2457720234a76a94e7b02379f6b0a36128acab0c0f76b68128c740c5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".zh-tw/acres.dll.mui",
+      "SPDXID": "SPDXRef-File-zh-tw-acres.dll.mui-554963487D03E170551DD33AB2F1D288E7860990",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "554963487d03e170551dd33ab2f1d288e7860990"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "499d485dacbe9f0a7507eabdbcf11a6d68fbabcc835333bf8f19dac1a776ca5d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".replacementmanifests/starttiledata-replacement.man",
+      "SPDXID": "SPDXRef-File-replacementmanifests-starttiledata-replacement.man-1FAA160F3E64C17B9784391192642C743E4AE62F",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1faa160f3e64c17b9784391192642c743e4ae62f"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "67a9cc40e5401addb007ad3824c41de5baa81b63ced613b267586aa2d959ea72"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".el-gr/acres.dll.mui",
+      "SPDXID": "SPDXRef-File-el-gr-acres.dll.mui-4D176DFE01084BFD27A5A2097EE1E323BEEBF5C7",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4d176dfe01084bfd27a5a2097ee1e323beebf5c7"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9d74738144a4d0436551e2924c914ffbebadf7c6fc00cac0df22f4e8fb0e4735"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".ar-sa/acres.dll.mui",
+      "SPDXID": "SPDXRef-File-ar-sa-acres.dll.mui-5F95487B330B8779707D59D6C5907AB4D05AC6CB",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5f95487b330b8779707d59d6c5907ab4d05ac6cb"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "82cf9e2b00b098ad5b9721a683f8c0224717c666795f4575a20553cdef543a92"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".upgrade_bulk.xml",
+      "SPDXID": "SPDXRef-File-upgrade-bulk.xml-37F4C7500F4B295FB84833047E3A9A7EB9FC0580",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "37f4c7500f4b295fb84833047e3a9a7eb9fc0580"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e3d8e05e46bf9fce34348d5456fc85996653ba44b43675527e00e50ba4a23370"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".setupplatform.exe",
+      "SPDXID": "SPDXRef-File-setupplatform.exe-51D98C99E5D51FBBC3BC5C685D00056D52C53E0A",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "51d98c99e5d51fbbc3bc5c685d00056d52c53e0a"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3ddfc17a2ed013c622e84fec8340a794d85262456e529dbb667ab64f230499d1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".setup.exe",
+      "SPDXID": "SPDXRef-File-setup.exe-6B326371E0E2B58D38657685EB02FFAA7976E9D3",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6b326371e0e2b58d38657685eb02ffaa7976e9d3"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4c51a0a8ab7af7512ae82344aca1b31f8b261b5fde799bc49963824d107c13ab"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".migstore.dll",
+      "SPDXID": "SPDXRef-File-migstore.dll-F289DAAA445EFBFBB4A957A21036B07EDF95AE00",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f289daaa445efbfbb4a957a21036b07edf95ae00"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3216e114e93b66652f6479b1dc0a933e9c361074f19325793b451d44aac839b0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".nb-no/acres.dll.mui",
+      "SPDXID": "SPDXRef-File-nb-no-acres.dll.mui-934F8F8D82F9B16AFD658208ED9510C2980B9150",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "934f8f8d82f9b16afd658208ed9510c2980b9150"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "44ab8535d56d645a6ae039574af61dc193c357ca681ccbd6eb3f636278a44e07"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".replacementmanifests/appxdeploymentserver-replacement.man",
+      "SPDXID": "SPDXRef-File-replacementmanifests-appxdeploymentserver-replacement.man-EC1017EAA20D138CCFB36DDC21D6A14F339E431D",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ec1017eaa20d138ccfb36ddc21d6a14f339e431d"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "aa96f0c3ead02d87ab70c21c98732e191cb3b06c9fb7742c5407b615d6f6e6eb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".appraiser.dll",
+      "SPDXID": "SPDXRef-File-appraiser.dll-C671742C740944CB734B4EEA2A9A902CCB614EB9",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c671742c740944cb734b4eea2a9a902ccb614eb9"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a8e195fda02b134095b02e593abb4f4874db224b091bc28d208f3dce6970c893"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".fr-fr/acres.dll.mui",
+      "SPDXID": "SPDXRef-File-fr-fr-acres.dll.mui-A1FCF4594D040759B823601D6E7DF8421425713A",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a1fcf4594d040759b823601d6e7df8421425713a"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cc1f42ba70bd5f83f33b399e094eba9fb547ca1685e144ba4e6e88cd4663e517"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".replacementmanifests/ppipolicies-miracast-replacement.man",
+      "SPDXID": "SPDXRef-File-replacementmanifests-ppipolicies-miracast-replacement.man-32AE538016C56EA694AB68220665656760F70609",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "32ae538016c56ea694ab68220665656760f70609"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e10874770c04a58979e7ce7f82b7fd3d153d026b72d952a5720544b27fb2e4d7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".setupcore.dll",
+      "SPDXID": "SPDXRef-File-setupcore.dll-2C974E22EBAE07F869FE0F9882EE56E3C872FA6D",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2c974e22ebae07f869fe0f9882ee56e3c872fa6d"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8a0c28bcd14e51ac17561aad3f974738c1c09716a85467fa633fa5dcb8e5b517"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".migres.dll",
+      "SPDXID": "SPDXRef-File-migres.dll-01E9C4B214A53A46923BD2A6320399F8C6E51AA3",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "01e9c4b214a53a46923bd2a6320399f8c6e51aa3"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b86f1f0c7afd44c0cbdd0a56a1d98c96159f3b56c2ef995932e45107e41890bd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".nl-nl/acres.dll.mui",
+      "SPDXID": "SPDXRef-File-nl-nl-acres.dll.mui-4854834D09AB923AE7848E77ED882D32B751BFA2",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4854834d09ab923ae7848e77ed882d32b751bfa2"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a00c842d0a98d501d0c94079826ea7a66f1f327e7d87d27e26e08f93b3ff6695"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".acres.dll",
+      "SPDXID": "SPDXRef-File-acres.dll-A779F8301B4DEB27C12F3AA9C5D3BBFA6364DB8E",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a779f8301b4deb27c12f3aa9c5d3bbfa6364db8e"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cfc55a2c96d34b99797cc7f345e6d7c6b91e231bff645012349eeface17d64f3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".es-es/acres.dll.mui",
+      "SPDXID": "SPDXRef-File-es-es-acres.dll.mui-FB54E7436FFD484A913B4CD30A922F2079BAC5BB",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fb54e7436ffd484a913b4cd30a922f2079bac5bb"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0193726afa4aea31da8335b8de6f428955d4d6682ce978db24f771ec2d9a5248"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".setupmgr.dll",
+      "SPDXID": "SPDXRef-File-setupmgr.dll-4B7D0A12B67234176A35D192AABB75800EBE0A36",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4b7d0a12b67234176a35d192aabb75800ebe0a36"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7c279e7eedbeec8d9f40de9e3f407aaa712765b3795315f8c00db201a569304e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".ru-ru/acres.dll.mui",
+      "SPDXID": "SPDXRef-File-ru-ru-acres.dll.mui-1AD1FDB949EE694EB1FF0E46F13FEA948810CDF6",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1ad1fdb949ee694eb1ff0e46f13fea948810cdf6"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1bbb8e9748aa94f75c3740a1cf2d3fb01ab86791958e1672cc0fc0ee3094fa66"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".pt-pt/acres.dll.mui",
+      "SPDXID": "SPDXRef-File-pt-pt-acres.dll.mui-45CCDD92A8DB339F6272292EB8022045B758330A",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "45ccdd92a8db339f6272292eb8022045b758330a"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "73593863cf0144c075d019c431eccdb8ce6af5e34a939761ade1a2d583272f64"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".mxeagent.dll",
+      "SPDXID": "SPDXRef-File-mxeagent.dll-9A434E48B5F0DB418A0081976AB481F4C1108CE0",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9a434e48b5f0db418a0081976ab481f4c1108ce0"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "010ad28b8a9fa53e0c784c49b6bc78b1520734db1a32661094634d02cc424a5d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".fr-ca/acres.dll.mui",
+      "SPDXID": "SPDXRef-File-fr-ca-acres.dll.mui-E5D4F2E89B99738EDA0F2855A74E50FBCD701A43",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e5d4f2e89b99738eda0f2855a74e50fbcd701a43"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "633e517bfc709f471d17d000edf0b6a0af787c8fba310d61398f270aa1ad412f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".es-mx/acres.dll.mui",
+      "SPDXID": "SPDXRef-File-es-mx-acres.dll.mui-9FB4467DBB860D5E758435EBB60A7E357610818C",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9fb4467dbb860d5e758435ebb60a7e357610818c"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "672b12e153e57e000f17401f6154047061cedfbbcb5d77dbda9e5cb493803031"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".csiagent.dll",
+      "SPDXID": "SPDXRef-File-csiagent.dll-E760364EE9D17A1DCF3C7FD4F5B63EFF361C1868",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e760364ee9d17a1dcf3c7fd4f5b63eff361c1868"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3ec5f74f442e118efec660efe757a867769593e4c193212e1bd2c7c5e9b9581a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".cmi2migxml.dll",
+      "SPDXID": "SPDXRef-File-cmi2migxml.dll-AC63F03621F1AC824942B87E1122C1D5A317CDFD",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ac63f03621f1ac824942b87e1122c1d5a317cdfd"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5de9ae98e5a45a05fb5bbad976a95dc3dd7da99e9464d842d1a9363e700bcc90"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".sv-se/acres.dll.mui",
+      "SPDXID": "SPDXRef-File-sv-se-acres.dll.mui-A621FBF78682D6AE56332708E444A2826DD17AD4",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a621fbf78682d6ae56332708e444a2826dd17ad4"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "abeacec2b38f505e20d959c20848fddcb630dd06ce5b04868edf34876aad1f85"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".setuphost.exe",
+      "SPDXID": "SPDXRef-File-setuphost.exe-0657D9D4EB0A2984AD472F2836AF61F3108FEF2C",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0657d9d4eb0a2984ad472f2836af61f3108fef2c"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c6bf34306539cb5a72392a1d1299e1d90a52f3d1f074c9475732ca8354d048bf"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".pl-pl/acres.dll.mui",
+      "SPDXID": "SPDXRef-File-pl-pl-acres.dll.mui-9C16F9BAA4640726632B1358C42F989B5ED2B90B",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9c16f9baa4640726632b1358c42f989b5ed2b90b"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "15908c2892c7b8b0490a7792d98013403e8c6d68166415711caabfc0e108edcf"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".fi-fi/acres.dll.mui",
+      "SPDXID": "SPDXRef-File-fi-fi-acres.dll.mui-76AD09102D7ADE5E1962AC3548B79BE31A22CD4A",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "76ad09102d7ade5e1962ac3548b79be31a22cd4a"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d5ca5dc8e9300eaa5d516dcfde3de35db8c27993318416dbd38fc12e24f9a46d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".ro-ro/acres.dll.mui",
+      "SPDXID": "SPDXRef-File-ro-ro-acres.dll.mui-951BD38686D421121634592C7FEC01D2B7B38E91",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "951bd38686d421121634592c7fec01d2b7b38e91"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d30e06998cb31c4af3d72eda5ee4c0d4c003d0fa4d915856b613f7c783ff56a8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".mitigation.dll",
+      "SPDXID": "SPDXRef-File-mitigation.dll-986A787D90DC6B68E67B65DDF5157A9F841316E8",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "986a787d90dc6b68e67b65ddf5157a9f841316e8"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b8858f509feaf5dede53e1a908e8f237cadd2e85b1e1e6846dcd9b61c995f177"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".en-gb/acres.dll.mui",
+      "SPDXID": "SPDXRef-File-en-gb-acres.dll.mui-BC9B09EE72E8BFB2F89B7807DDBEA5CBB0228E56",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bc9b09ee72e8bfb2f89b7807ddbea5cbb0228e56"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3fdb5462df5af017cd1e71ccfd109cb6352647c209b483fecb162485e51ad53d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".setupcompat.dll",
+      "SPDXID": "SPDXRef-File-setupcompat.dll-570E355AFC8003690CA3A56CFE0C386BBD8D8480",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "570e355afc8003690ca3a56cfe0c386bbd8d8480"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c750c50e15a9a26842b02465f389cce90de8a595b6b9569c5deed68f9e4601a9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".offline.xml",
+      "SPDXID": "SPDXRef-File-offline.xml-2A2007C5DD3577CFA9AAA27FF268984343877F5D",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2a2007c5dd3577cfa9aaa27ff268984343877f5d"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "be7958bb57e1f099f08dc892345ded30489140b7535df1336226571cd036c7d2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".facilitator.dll",
+      "SPDXID": "SPDXRef-File-facilitator.dll-7767781E7B69CA0749E4832160D3AAC648031C06",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7767781e7b69ca0749e4832160d3aac648031c06"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "22d1a73c2d9c3edc20f4dbc7169b7c4d1c54b4c9874400f7f9d7c504ee6c02b7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".cs-cz/acres.dll.mui",
+      "SPDXID": "SPDXRef-File-cs-cz-acres.dll.mui-733199A6F6646737037423569193FE8A08C3907E",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "733199a6f6646737037423569193fe8a08c3907e"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d7cb0f1ada1f063de951a08327f89a8742f3a8498da945a3d18ade47c739155c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".replacementmanifests/microsoft-windows-appx-deployment-server/appxupgrademigrationplugin.dll",
+      "SPDXID": "SPDXRef-File-replacementmanifests-microsoft-windows-appx-deployment-server-appxupgrademigrationplugin.dll-FD40DCBFE68339D8A3D8C7791A3317F0CB7070B4",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fd40dcbfe68339d8a3d8c7791a3317f0cb7070b4"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4ca1be13b672583d7b98040c6caf7c8be922fcc4e50db8a9deee30d21e48a9f2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".lv-lv/acres.dll.mui",
+      "SPDXID": "SPDXRef-File-lv-lv-acres.dll.mui-D6FD2B9035B132FA4313F226010AE8B5BDACB887",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d6fd2b9035b132fa4313f226010ae8b5bdacb887"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7bb372f8e95783855d2790f7caac2f51f7308af489ef442bde7478c019058fc0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".diagtrack.dll",
+      "SPDXID": "SPDXRef-File-diagtrack.dll-A7EE8F89B7EA5F6A5791BE42F1AC2C4F8737A45D",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a7ee8f89b7ea5f6a5791be42f1ac2c4f8737a45d"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7aea82c8c38a88e7c66ccae246367c261a6c230b5ce4540c7970c8eb1d8dc6ca"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".appraiserres.dll",
+      "SPDXID": "SPDXRef-File-appraiserres.dll-546AE1ECBE1E631BD841668731B61223F67065CF",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "546ae1ecbe1e631bd841668731b61223f67065cf"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a6919b0479b8098e3b83da6770f41074f95b0e1a007af2455dfdcdf370b69396"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".en-us/acres.dll.mui",
+      "SPDXID": "SPDXRef-File-en-us-acres.dll.mui-4040F6198226707BAC5F6BE9CB7448D5FCB09164",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4040f6198226707bac5f6be9cb7448d5fcb09164"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "77eb8657ca64225fddff0680a445db5188f0c00109f4a665ba8ca9539e284094"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".bg-bg/acres.dll.mui",
+      "SPDXID": "SPDXRef-File-bg-bg-acres.dll.mui-9AF46665DCF9CD7587AF1C1144C29453ABD97387",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9af46665dcf9cd7587af1c1144c29453abd97387"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3d7d65b4add285b8fdcbbb9009d138a155277d3d05ad56ba09350f5e22c028ce"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    }
+  ],
+  "packages": [
+    {
+      "name": "Windows10.0-KB5032906-x64.cab",
+      "SPDXID": "SPDXRef-RootPackage",
+      "downloadLocation": "NOASSERTION",
+      "packageVerificationCode": {
+        "packageVerificationCodeValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+      },
+      "filesAnalyzed": true,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "10.0.19041.3685",
+      "supplier": "Organization: Microsoft",
+      "hasFiles": [
+        "SPDXRef-File-cs-cz-acres.dll.mui-733199A6F6646737037423569193FE8A08C3907E",
+        "SPDXRef-File-facilitator.dll-7767781E7B69CA0749E4832160D3AAC648031C06",
+        "SPDXRef-File-offline.xml-2A2007C5DD3577CFA9AAA27FF268984343877F5D",
+        "SPDXRef-File-setupcompat.dll-570E355AFC8003690CA3A56CFE0C386BBD8D8480",
+        "SPDXRef-File-en-gb-acres.dll.mui-BC9B09EE72E8BFB2F89B7807DDBEA5CBB0228E56",
+        "SPDXRef-File-mitigation.dll-986A787D90DC6B68E67B65DDF5157A9F841316E8",
+        "SPDXRef-File-ro-ro-acres.dll.mui-951BD38686D421121634592C7FEC01D2B7B38E91",
+        "SPDXRef-File-fi-fi-acres.dll.mui-76AD09102D7ADE5E1962AC3548B79BE31A22CD4A",
+        "SPDXRef-File-pl-pl-acres.dll.mui-9C16F9BAA4640726632B1358C42F989B5ED2B90B",
+        "SPDXRef-File-setuphost.exe-0657D9D4EB0A2984AD472F2836AF61F3108FEF2C",
+        "SPDXRef-File-sv-se-acres.dll.mui-A621FBF78682D6AE56332708E444A2826DD17AD4",
+        "SPDXRef-File-csiagent.dll-E760364EE9D17A1DCF3C7FD4F5B63EFF361C1868",
+        "SPDXRef-File-fr-ca-acres.dll.mui-E5D4F2E89B99738EDA0F2855A74E50FBCD701A43",
+        "SPDXRef-File-pt-pt-acres.dll.mui-45CCDD92A8DB339F6272292EB8022045B758330A",
+        "SPDXRef-File-setupmgr.dll-4B7D0A12B67234176A35D192AABB75800EBE0A36",
+        "SPDXRef-File-es-es-acres.dll.mui-FB54E7436FFD484A913B4CD30A922F2079BAC5BB",
+        "SPDXRef-File-nl-nl-acres.dll.mui-4854834D09AB923AE7848E77ED882D32B751BFA2",
+        "SPDXRef-File-setupcore.dll-2C974E22EBAE07F869FE0F9882EE56E3C872FA6D",
+        "SPDXRef-File-fr-fr-acres.dll.mui-A1FCF4594D040759B823601D6E7DF8421425713A",
+        "SPDXRef-File-replacementmanifests-appxdeploymentserver-replacement.man-EC1017EAA20D138CCFB36DDC21D6A14F339E431D",
+        "SPDXRef-File-setupplatform.exe-51D98C99E5D51FBBC3BC5C685D00056D52C53E0A",
+        "SPDXRef-File-upgrade-bulk.xml-37F4C7500F4B295FB84833047E3A9A7EB9FC0580",
+        "SPDXRef-File-cmi2migxml.dll-AC63F03621F1AC824942B87E1122C1D5A317CDFD",
+        "SPDXRef-File-es-mx-acres.dll.mui-9FB4467DBB860D5E758435EBB60A7E357610818C",
+        "SPDXRef-File-mxeagent.dll-9A434E48B5F0DB418A0081976AB481F4C1108CE0",
+        "SPDXRef-File-ru-ru-acres.dll.mui-1AD1FDB949EE694EB1FF0E46F13FEA948810CDF6",
+        "SPDXRef-File-acres.dll-A779F8301B4DEB27C12F3AA9C5D3BBFA6364DB8E",
+        "SPDXRef-File-migres.dll-01E9C4B214A53A46923BD2A6320399F8C6E51AA3",
+        "SPDXRef-File-replacementmanifests-ppipolicies-miracast-replacement.man-32AE538016C56EA694AB68220665656760F70609",
+        "SPDXRef-File-appraiser.dll-C671742C740944CB734B4EEA2A9A902CCB614EB9",
+        "SPDXRef-File-nb-no-acres.dll.mui-934F8F8D82F9B16AFD658208ED9510C2980B9150",
+        "SPDXRef-File-setup.exe-6B326371E0E2B58D38657685EB02FFAA7976E9D3",
+        "SPDXRef-File-dism.exe-5B29C7185F7DB34200A157FE30B92D1DCD489153",
+        "SPDXRef-File-bg-bg-acres.dll.mui-9AF46665DCF9CD7587AF1C1144C29453ABD97387",
+        "SPDXRef-File-en-us-acres.dll.mui-4040F6198226707BAC5F6BE9CB7448D5FCB09164",
+        "SPDXRef-File-migstore.dll-F289DAAA445EFBFBB4A957A21036B07EDF95AE00",
+        "SPDXRef-File-replacementmanifests-starttiledata-replacement.man-1FAA160F3E64C17B9784391192642C743E4AE62F",
+        "SPDXRef-File-zh-tw-acres.dll.mui-554963487D03E170551DD33AB2F1D288E7860990",
+        "SPDXRef-File-migcore.dll-69E057DB21D3D8EF6F38D7CB8B8A0E02DBADE6A7",
+        "SPDXRef-File-replacementmanifests-microsoft-windows-sxs-sxsmigplugin.dll-C1B71F2A30E8A3E64C847A4A44164EE25882F1D9",
+        "SPDXRef-File-winsetup.dll-3D74CA361EEB9F4FAFF09E97E3A86A7B9EBFB3F0",
+        "SPDXRef-File-migsys.dll-1C0F06B4CC8EE8553B27E73D90316E5A4B7A28C0",
+        "SPDXRef-File-reservemanager.dll-41A2A2BF88C1F79424DC6C6D2D7BD1DC3CE807E6",
+        "SPDXRef-File-zh-cn-acres.dll.mui-2F0631511F00499323FF1756E710022A34866D38",
+        "SPDXRef-File-ar-sa-acres.dll.mui-5F95487B330B8779707D59D6C5907AB4D05AC6CB",
+        "SPDXRef-File-el-gr-acres.dll.mui-4D176DFE01084BFD27A5A2097EE1E323BEEBF5C7",
+        "SPDXRef-File-mighost.exe-CB1F55D3BD370A84C98BB67B30FDE70275DDDC5E",
+        "SPDXRef-File-replacementmanifests-ppipolicies-general-replacement.man-C202041345E4ADAC3C4390C5D0DAA3574A26E96E",
+        "SPDXRef-File-upgradeagent.dll-ED9D8A6EA165B6E27828C3AD6D04CD15008C8FC2",
+        "SPDXRef-File-lt-lt-acres.dll.mui-ECA866446C2226780E6D8F63797950982FEF1CBC",
+        "SPDXRef-File-replacementmanifests-microsoft-hyper-v-migration-replacement.man-3F4D21B735E98C963B8107A02A84A76D97F1DA21",
+        "SPDXRef-File-uninstall.xml-D03E846F454D918957EAF5275E4A59FBA8BE38B4",
+        "SPDXRef-File-migisol.dll-6E6D5754305B57FD0927341A19ECEA9A1FFD8A50",
+        "SPDXRef-File-replacementmanifests-microsoft-windows-iis-rm-iismig.dll-827566629DD41253F95E797372212774FC39220E",
+        "SPDXRef-File-windlp.dll-5E58D308F2A3F3EAF72E3D709D18616691B72852",
+        "SPDXRef-File-appraiserres.dll-546AE1ECBE1E631BD841668731B61223F67065CF",
+        "SPDXRef-File-diagtrack.dll-A7EE8F89B7EA5F6A5791BE42F1AC2C4F8737A45D",
+        "SPDXRef-File-lv-lv-acres.dll.mui-D6FD2B9035B132FA4313F226010AE8B5BDACB887",
+        "SPDXRef-File-replacementmanifests-microsoft-windows-appx-deployment-server-appxupgrademigrationplugin.dll-FD40DCBFE68339D8A3D8C7791A3317F0CB7070B4",
+        "SPDXRef-File-unbcl.dll-ABB42039F01E3728372A803236E020C1ADA44499",
+        "SPDXRef-File-it-it-acres.dll.mui-E60F63E4DDEC6072E09EA9B746BE9A5C1B50B31A",
+        "SPDXRef-File-replacementmanifests-microsoft-edge-migration-plugin-edge.dat-90A028F6CD7DFAF474A01B5E7D1A0753D6B2B8A5",
+        "SPDXRef-File-tr-tr-acres.dll.mui-2D087B86F76A3AEEA464874958F5212D34D91012",
+        "SPDXRef-File-mediasetupuimgr.dll-7ECC289E4BB63C46CD397D8C51EF0D862DF7F5B3",
+        "SPDXRef-File-replacementmanifests-microsoft-onecore-tiledatarepository-tilestoremigrationplugin.dll-A9B5D2F27E99E14D7F8AC82F5C961CD705976495",
+        "SPDXRef-File-updateagent.dll-BBB9597CCB48111B61D13ACD58CA021773CEE3E7",
+        "SPDXRef-File-acmigration.dll-5B4C0F68C12DBC6FEFDEFA25B9F9C0506BD605F7",
+        "SPDXRef-File-da-dk-acres.dll.mui-944F2C17E1AACE93D643307F53044CC98537E777",
+        "SPDXRef-File-hr-hr-acres.dll.mui-CABFAEB8D440CB01D9B59F63E5E008A9606AAD68",
+        "SPDXRef-File-replacementmanifests-edpnotify-replacement.man-64DDE8927F44EAB4FE410A01EB27FE512C379114",
+        "SPDXRef-File-setupprep.exe-77917BF801D42E6FAD5C456F2435740190B3BDA6",
+        "SPDXRef-File-et-ee-acres.dll.mui-641F18364BCCFBE3DD61A4CF4353C2E47293FE55",
+        "SPDXRef-File-pt-br-acres.dll.mui-82822EF62A0E9C281152C35C3516163235FC3000",
+        "SPDXRef-File-setupplatform.dll-7C6F8270BC878192924FC4D0B87FA2B49FB406BC",
+        "SPDXRef-File-hu-hu-acres.dll.mui-DF20ED128363B650725D3A4CD5B062F384ADBA41",
+        "SPDXRef-File-replacementmanifests-fveapi-replacement.man-0936295EBAF2004228AA34BCDEED63F01D4F76F2",
+        "SPDXRef-File-sr-latn-rs-acres.dll.mui-E29FB766B572A35069584B854B5830C822035819",
+        "SPDXRef-File-winsetupboot.sys-00BDE2051487317A9B6AFEEF3C4113689FF75907",
+        "SPDXRef-File-appraiser.sdb-B8255CD8ADB7C96443419C5199700C4942FA67B8",
+        "SPDXRef-File-de-de-acres.dll.mui-21476D0696E174E30C401A2B126E1D1880A41F8A",
+        "SPDXRef-File-ja-jp-acres.dll.mui-6C6AE55B0DEF15146B431835ABB54DE415E1DE97",
+        "SPDXRef-File-replacementmanifests-microsoft-edge-migration-plugin-edgemigrationplugin.dll-7C044770037E77FC08A8DF5D713C83E55150601B",
+        "SPDXRef-File-th-th-acres.dll.mui-DB86F4B945FE81181035B0709B59B6B55940CC0A",
+        "SPDXRef-File-he-il-acres.dll.mui-06C1651D42B1B02B4EFB96CACB824748816F4A6B",
+        "SPDXRef-File-replacementmanifests-edgemigrationplugin.man-B02DA4FB03F5E96249D0CDC339E24058AF18E808",
+        "SPDXRef-File-sk-sk-acres.dll.mui-1793EC45EC1A684B997A2FC042715B9FADE72B09",
+        "SPDXRef-File-ko-kr-acres.dll.mui-95C5329EF946E0E5E925033766F21D54495B31DF",
+        "SPDXRef-File-replacementmanifests-microsoft-edge-migration-plugin-edgeupdate.dat-31DBF3B7E903F71441306893A28CA05953D0FDD2",
+        "SPDXRef-File-uk-ua-acres.dll.mui-ADF5EB1874FFB5C49DAE713F760D64CC23BEF724",
+        "SPDXRef-File-sl-si-acres.dll.mui-3A61666074DD568A551C18326141ECF385475FC9"
+      ]
+    }
+  ],
+  "externalDocumentRefs": [],
+  "relationships": [
+    {
+      "relationshipType": "DESCRIBES",
+      "relatedSpdxElement": "SPDXRef-RootPackage",
+      "spdxElementId": "SPDXRef-DOCUMENT"
+    }
+  ],
+  "spdxVersion": "SPDX-2.2",
+  "dataLicense": "CC0-1.0",
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "name": "Windows10.0-KB5032906-x64.cab 10.0.19041.3685",
+  "documentNamespace": "https://sbom.microsoft/Windows10.0-KB5032906-x64.cab/10.0.19041.3685/XSykJ83iBEaM_XPcgUit1Q",
+  "creationInfo": {
+    "created": "2023-11-04T00:38:59Z",
+    "creators": [
+      "Organization: Microsoft",
+      "Tool: Microsoft.SBOMTool-0.3.3"
+    ]
+  },
+  "documentDescribes": [
+    "SPDXRef-RootPackage"
+  ]
+}
