@@ -1,0 +1,926 @@
+﻿8/14/2024 11:10:35 PM	Load tool settings
+8/14/2024 11:10:35 PM	Cannot find image path: D:\Win11_23H2_English_x64v2\sources\install.wim
+8/14/2024 11:10:35 PM	Cannot find image path: D:\Win11_23H2_English_x64v2\sources\boot.wim
+8/14/2024 11:10:35 PM	NTLite v2024.7.9999 x64
+8/14/2024 11:10:35 PM	CPU threads 12
+8/14/2024 11:10:36 PM	Gather host hardware
+8/14/2024 11:10:36 PM	 - GH
+8/14/2024 11:10:36 PM	 - Gather image list
+8/14/2024 11:10:36 PM	Save tool settings
+8/14/2024 11:10:36 PM	Load image list
+8/14/2024 11:10:36 PM	Cannot find image path: D:\Win11_23H2_English_x64v2\sources\install.wim
+8/14/2024 11:10:36 PM	Cannot find image path: D:\Win11_23H2_English_x64v2\sources\boot.wim
+8/14/2024 11:10:36 PM	Cannot read image info, potentially corrupted file: D:\Win11_23H2_English_x64v2\sources\install.wim
+8/14/2024 11:10:36 PM	Cannot read image info, potentially corrupted file: D:\Win11_23H2_English_x64v2\sources\boot.wim
+8/14/2024 11:10:36 PM	SHD
+8/14/2024 11:10:36 PM	Host: Windows 11 Professional 23H2 x64 - 10.0.22635.4010 (en-US)
+8/14/2024 11:10:36 PM	Image list checkup
+8/14/2024 11:10:48 PM	 - Gather image list
+8/14/2024 11:10:48 PM	Save tool settings
+8/14/2024 11:10:48 PM	Load image list
+8/14/2024 11:10:48 PM	Cannot find image path: D:\Win11_23H2_English_x64v2\sources\install.wim
+8/14/2024 11:10:48 PM	Cannot find image path: D:\Win11_23H2_English_x64v2\sources\boot.wim
+8/14/2024 11:10:48 PM	Cannot read image info, potentially corrupted file: D:\Win11_23H2_English_x64v2\sources\boot.wim
+8/14/2024 11:10:48 PM	Cannot read image info, potentially corrupted file: D:\Win11_23H2_English_x64v2\sources\install.wim
+8/14/2024 11:10:48 PM	Image list checkup
+8/14/2024 11:10:59 PM	SM [e]: D:\Windows10_x64_eng\sources\install.esd
+8/14/2024 11:10:59 PM	Exporting D:\Windows10_x64_eng\sources\install.esd:1 -> D:\Windows10_x64_eng\sources\install.wim
+8/14/2024 11:10:59 PM	 - WG Export
+8/14/2024 11:10:59 PM	GWH
+8/14/2024 11:10:59 PM	WIM error_9: 11
+8/14/2024 11:11:00 PM	Image compression: 2
+8/14/2024 11:11:00 PM	GWH
+8/14/2024 11:17:33 PM	Deleting temporary files: C:\Users\Super\AppData\Local\Temp\NLTmpWEDst940bc337
+8/14/2024 11:17:33 PM	Deleting temporary files: C:\Users\Super\AppData\Local\Temp\NLTmpWESrc940bc337
+8/14/2024 11:17:33 PM	SM [e]: D:\Windows10_x64_eng\sources\install.esd
+8/14/2024 11:17:33 PM	Exporting D:\Windows10_x64_eng\sources\install.esd:2 -> D:\Windows10_x64_eng\sources\install.wim
+8/14/2024 11:17:33 PM	 - WG Export
+8/14/2024 11:17:33 PM	GWH
+8/14/2024 11:17:33 PM	WIM error_9: 11
+8/14/2024 11:17:33 PM	Image compression: 2
+8/14/2024 11:17:33 PM	GWH
+8/14/2024 11:18:24 PM	Deleting temporary files: C:\Users\Super\AppData\Local\Temp\NLTmpWEDst0d02928d
+8/14/2024 11:18:24 PM	Deleting temporary files: C:\Users\Super\AppData\Local\Temp\NLTmpWESrc0d02928d
+8/14/2024 11:18:24 PM	SM [e]: D:\Windows10_x64_eng\sources\install.esd
+8/14/2024 11:18:24 PM	Exporting D:\Windows10_x64_eng\sources\install.esd:3 -> D:\Windows10_x64_eng\sources\install.wim
+8/14/2024 11:18:24 PM	 - WG Export
+8/14/2024 11:18:24 PM	GWH
+8/14/2024 11:18:24 PM	WIM error_9: 11
+8/14/2024 11:18:25 PM	Image compression: 2
+8/14/2024 11:18:25 PM	GWH
+8/14/2024 11:19:11 PM	Deleting temporary files: C:\Users\Super\AppData\Local\Temp\NLTmpWEDst7a05a21b
+8/14/2024 11:19:11 PM	Deleting temporary files: C:\Users\Super\AppData\Local\Temp\NLTmpWESrc7a05a21b
+8/14/2024 11:19:11 PM	SM [e]: D:\Windows10_x64_eng\sources\install.esd
+8/14/2024 11:19:11 PM	Exporting D:\Windows10_x64_eng\sources\install.esd:4 -> D:\Windows10_x64_eng\sources\install.wim
+8/14/2024 11:19:11 PM	 - WG Export
+8/14/2024 11:19:11 PM	GWH
+8/14/2024 11:19:11 PM	WIM error_9: 11
+8/14/2024 11:19:11 PM	Image compression: 2
+8/14/2024 11:19:11 PM	GWH
+8/14/2024 11:20:10 PM	Deleting temporary files: C:\Users\Super\AppData\Local\Temp\NLTmpWEDste46137b8
+8/14/2024 11:20:10 PM	Deleting temporary files: C:\Users\Super\AppData\Local\Temp\NLTmpWESrce46137b8
+8/14/2024 11:20:10 PM	SM [e]: D:\Windows10_x64_eng\sources\install.esd
+8/14/2024 11:20:10 PM	Exporting D:\Windows10_x64_eng\sources\install.esd:5 -> D:\Windows10_x64_eng\sources\install.wim
+8/14/2024 11:20:10 PM	 - WG Export
+8/14/2024 11:20:10 PM	GWH
+8/14/2024 11:20:10 PM	WIM error_9: 11
+8/14/2024 11:20:10 PM	Image compression: 2
+8/14/2024 11:20:10 PM	GWH
+8/14/2024 11:21:00 PM	Deleting temporary files: C:\Users\Super\AppData\Local\Temp\NLTmpWEDst9366072e
+8/14/2024 11:21:00 PM	Deleting temporary files: C:\Users\Super\AppData\Local\Temp\NLTmpWESrc9366072e
+8/14/2024 11:21:00 PM	SM [e]: D:\Windows10_x64_eng\sources\install.esd
+8/14/2024 11:21:00 PM	Exporting D:\Windows10_x64_eng\sources\install.esd:6 -> D:\Windows10_x64_eng\sources\install.wim
+8/14/2024 11:21:00 PM	 - WG Export
+8/14/2024 11:21:00 PM	GWH
+8/14/2024 11:21:00 PM	WIM error_9: 11
+8/14/2024 11:21:01 PM	Image compression: 2
+8/14/2024 11:21:01 PM	GWH
+8/14/2024 11:21:48 PM	Deleting temporary files: C:\Users\Super\AppData\Local\Temp\NLTmpWEDst0a6f5694
+8/14/2024 11:21:48 PM	Deleting temporary files: C:\Users\Super\AppData\Local\Temp\NLTmpWESrc0a6f5694
+8/14/2024 11:21:48 PM	SM [e]: D:\Windows10_x64_eng\sources\install.esd
+8/14/2024 11:21:48 PM	Exporting D:\Windows10_x64_eng\sources\install.esd:7 -> D:\Windows10_x64_eng\sources\install.wim
+8/14/2024 11:21:48 PM	 - WG Export
+8/14/2024 11:21:48 PM	GWH
+8/14/2024 11:21:48 PM	WIM error_9: 11
+8/14/2024 11:21:48 PM	Image compression: 2
+8/14/2024 11:21:48 PM	GWH
+8/14/2024 11:22:35 PM	Deleting temporary files: C:\Users\Super\AppData\Local\Temp\NLTmpWEDst7d686602
+8/14/2024 11:22:35 PM	Deleting temporary files: C:\Users\Super\AppData\Local\Temp\NLTmpWESrc7d686602
+8/14/2024 11:22:35 PM	# 
+8/14/2024 11:22:35 PM	Remove item from the list: Operating systems  |  install.esd
+8/14/2024 11:22:35 PM	 - Forget image Operating systems  |  install.esd
+8/14/2024 11:22:35 PM	Cleaning mount directory
+8/14/2024 11:22:35 PM	SM [cm]: D:\Windows10_x64_eng\sources\install.esd
+8/14/2024 11:22:35 PM	SM [cm]: clr
+8/14/2024 11:22:35 PM	Cleaning mount directory
+8/14/2024 11:22:35 PM	SM [cm]: clr
+8/14/2024 11:22:35 PM	Completed - Cleaning mount directory
+8/14/2024 11:22:35 PM	- UnReg (di:0)
+8/14/2024 11:22:35 PM	Cleaning
+8/14/2024 11:22:35 PM	Waiting for other operations to finish
+8/14/2024 11:22:35 PM	Completed
+8/14/2024 11:22:37 PM	SM [po]: clr
+8/14/2024 11:22:37 PM	 - Gather image list
+8/14/2024 11:22:37 PM	Save tool settings
+8/14/2024 11:22:37 PM	Load image list
+8/14/2024 11:22:37 PM	Cannot find image path: D:\Win11_23H2_English_x64v2\sources\install.wim
+8/14/2024 11:22:37 PM	Cannot find image path: D:\Win11_23H2_English_x64v2\sources\boot.wim
+8/14/2024 11:22:37 PM	Cannot read image info, potentially corrupted file: D:\Win11_23H2_English_x64v2\sources\install.wim
+8/14/2024 11:22:37 PM	Cannot read image info, potentially corrupted file: D:\Win11_23H2_English_x64v2\sources\boot.wim
+8/14/2024 11:22:37 PM	Image list checkup
+8/14/2024 11:22:38 PM	Image load: Windows 10 Pro - D:\Windows10_x64_eng\sources\install.wim
+8/14/2024 11:22:38 PM	SM [m]: D:\Windows10_x64_eng\sources\install.wim
+8/14/2024 11:22:38 PM	Mounting image: D:\Windows10_x64_eng\sources\install.wim - Windows 10 Pro
+8/14/2024 11:22:38 PM		Mount dir: C:\Users\Super\AppData\Local\Temp\NLTmpMnt
+8/14/2024 11:22:38 PM	GWH
+8/14/2024 11:24:49 PM	SM [m]: clr
+8/14/2024 11:24:49 PM	# 
+8/14/2024 11:24:51 PM	Windows 10 Professional 22H2 x64 - 10.0.19045.3803
+8/14/2024 11:24:51 PM	Reading data: Windows 10 Professional 22H2 x64 - 10.0.19045.3803 (en-US)
+8/14/2024 11:24:51 PM	- Gather hardware lists
+8/14/2024 11:24:52 PM	- Gather packages
+8/14/2024 11:24:55 PM	 - Package sorting
+8/14/2024 11:24:55 PM	 - Connecting PBC
+8/14/2024 11:24:56 PM	- Filtering packages
+8/14/2024 11:24:57 PM	- Gather existing drivers
+8/14/2024 11:25:00 PM	- Gather services
+8/14/2024 11:25:04 PM	- Gather driver services
+8/14/2024 11:25:05 PM	- Gather scheduled tasks
+8/14/2024 11:25:07 PM	- Gather components
+8/14/2024 11:25:14 PM	- Gather languages
+8/14/2024 11:25:14 PM	- Gather keyboards
+8/14/2024 11:25:15 PM	- Gather fonts
+8/14/2024 11:25:16 PM	- Connect drivers
+8/14/2024 11:25:16 PM	- Gather tweaks
+8/14/2024 11:25:16 PM	Skipping EventLog-Application due to setup requirement
+8/14/2024 11:25:16 PM	Skipping EventLog-Security due to setup requirement
+8/14/2024 11:25:16 PM	Skipping EventLog-System due to setup requirement
+8/14/2024 11:25:16 PM	- Gather unattended data
+8/14/2024 11:25:16 PM		- Timezones
+8/14/2024 11:25:16 PM		- Keyboards
+8/14/2024 11:25:16 PM		- Locales
+8/14/2024 11:25:16 PM	- Gather unattended options
+8/14/2024 11:25:16 PM	# 
+8/14/2024 11:25:16 PM		-Loading components
+8/14/2024 11:25:16 PM	- Apply compatibility options
+8/14/2024 11:25:16 PM		-Loading Apply options
+8/14/2024 11:25:16 PM	 - Gather image list
+8/14/2024 11:25:16 PM	Save tool settings
+8/14/2024 11:25:16 PM	Load image list
+8/14/2024 11:25:16 PM	Cannot find image path: D:\Win11_23H2_English_x64v2\sources\install.wim
+8/14/2024 11:25:16 PM	Cannot find image path: D:\Win11_23H2_English_x64v2\sources\boot.wim
+8/14/2024 11:25:16 PM	Cannot read image info, potentially corrupted file: D:\Win11_23H2_English_x64v2\sources\boot.wim
+8/14/2024 11:25:16 PM	Cannot read image info, potentially corrupted file: D:\Win11_23H2_English_x64v2\sources\install.wim
+8/14/2024 11:25:16 PM	Windows 10 Professional 22H2 x64 - 10.0.19045.3803
+8/14/2024 11:25:18 PM	Image list checkup
+8/14/2024 11:25:18 PM		-Loading features
+8/14/2024 11:25:18 PM		-Loading drivers
+8/14/2024 11:25:19 PM		-Loading unattended
+8/14/2024 11:25:19 PM	- Gather unattended options
+8/14/2024 11:25:19 PM		-Loading tweaks
+8/14/2024 11:25:19 PM		-Loading execution list
+8/14/2024 11:25:19 PM	- Gather existing Post-Setup Machine
+8/14/2024 11:25:19 PM	- Gather existing Post-Setup User
+8/14/2024 11:25:19 PM		-Loading registry list
+8/14/2024 11:25:19 PM		-Loading updates
+8/14/2024 11:25:19 PM	# 
+8/14/2024 11:25:19 PM	# 
+8/14/2024 11:25:19 PM	- UnReg (di:0)
+8/14/2024 11:25:19 PM	Cleaning
+8/14/2024 11:25:19 PM	Waiting for other operations to finish
+8/14/2024 11:25:19 PM	Completed - Image load
+8/14/2024 11:25:19 PM	SM [po]: clr
+8/14/2024 11:25:19 PM	 - Gather image list
+8/14/2024 11:25:19 PM	Save tool settings
+8/14/2024 11:25:19 PM	Load image list
+8/14/2024 11:25:19 PM	Cannot find image path: D:\Win11_23H2_English_x64v2\sources\install.wim
+8/14/2024 11:25:19 PM	Cannot find image path: D:\Win11_23H2_English_x64v2\sources\boot.wim
+8/14/2024 11:25:19 PM	Cannot read image info, potentially corrupted file: D:\Win11_23H2_English_x64v2\sources\install.wim
+8/14/2024 11:25:19 PM	Cannot read image info, potentially corrupted file: D:\Win11_23H2_English_x64v2\sources\boot.wim
+8/14/2024 11:25:19 PM	Windows 10 Professional 22H2 x64 - 10.0.19045.3803
+8/14/2024 11:25:20 PM	Image list checkup
+8/14/2024 11:26:34 PM	Drivers page fill
+8/14/2024 11:26:34 PM	- Hardware list refresh
+8/14/2024 11:26:34 PM	- Listing added drivers
+8/14/2024 11:26:34 PM	- Listing hardware devices
+8/14/2024 11:26:34 PM	- Listing hardware devices
+8/14/2024 11:27:13 PM	- Listing components
+8/14/2024 11:30:01 PM	Info: Configure Windows setup choices in advance, making a fully automated installation. Enable this page with the top-left toolbar option.
+8/14/2024 11:30:17 PM	- Listing post-setup executions
+8/14/2024 11:30:28 PM	- UnReg (di:1)
+8/14/2024 11:31:40 PM	- UnReg (di:1)
+8/14/2024 11:32:11 PM	- UnReg (di:1)
+8/14/2024 11:33:25 PM	- Listing hardware devices
+8/14/2024 11:33:54 PM	- Listing hardware devices
+8/14/2024 11:33:56 PM	- Listing hardware devices
+8/14/2024 11:35:48 PM	- Listing hardware devices
+8/14/2024 11:35:51 PM	- Listing hardware devices
+8/14/2024 11:36:00 PM	Start applying all of the pending changes.
+8/14/2024 11:36:00 PM	# 
+8/14/2024 11:36:00 PM	Save tool settings
+8/14/2024 11:36:00 PM	- Save preset: Auto-saved b6c1f6ff
+8/14/2024 11:36:00 PM	Unattended: pass 'Generalize'
+8/14/2024 11:36:00 PM	Unattended: pass 'OOBE (Final install options)'
+8/14/2024 11:36:00 PM	Unattended: pass 'Specialize'
+8/14/2024 11:36:00 PM	Unattended: pass 'WindowsPE (Setup options)'
+8/14/2024 11:36:01 PM	Unattended: pass 'Generalize'
+8/14/2024 11:36:01 PM	Unattended: pass 'OOBE (Final install options)'
+8/14/2024 11:36:01 PM	Unattended: pass 'Specialize'
+8/14/2024 11:36:01 PM	Unattended: pass 'WindowsPE (Setup options)'
+8/14/2024 11:36:01 PM	 - Gather image list
+8/14/2024 11:36:01 PM	Save tool settings
+8/14/2024 11:36:01 PM	Load image list
+8/14/2024 11:36:01 PM	Cannot find image path: D:\Win11_23H2_English_x64v2\sources\install.wim
+8/14/2024 11:36:01 PM	Cannot find image path: D:\Win11_23H2_English_x64v2\sources\boot.wim
+8/14/2024 11:36:01 PM	Cannot read image info, potentially corrupted file: D:\Win11_23H2_English_x64v2\sources\boot.wim
+8/14/2024 11:36:01 PM	Cannot read image info, potentially corrupted file: D:\Win11_23H2_English_x64v2\sources\install.wim
+8/14/2024 11:36:01 PM	Windows 10 Professional 22H2 x64 - 10.0.19045.3803
+8/14/2024 11:36:01 PM	Image list checkup
+8/14/2024 11:36:01 PM	# 
+8/14/2024 11:36:01 PM	Windows 10 Professional 22H2 x64 - 10.0.19045.3803
+8/14/2024 11:36:01 PM	# 
+8/14/2024 11:36:01 PM	# 
+8/14/2024 11:36:01 PM	Preparing feature configuration
+8/14/2024 11:36:01 PM	Disabling: DirectX Configuration Database
+8/14/2024 11:36:01 PM	Preparing DISM
+8/14/2024 11:36:01 PM	- DI
+8/14/2024 11:36:01 PM	DA 10.0.22621.3646
+8/14/2024 11:36:01 PM	- UnReg (di:1)
+8/14/2024 11:36:10 PM	Disabling: English (US) handwriting
+8/14/2024 11:36:14 PM	Disabling: English (US) optical character recognition
+8/14/2024 11:36:18 PM	Disabling: English (US) speech recognition
+8/14/2024 11:36:23 PM	Disabling: English (US) text-to-speech
+8/14/2024 11:36:28 PM	Disabling: English (US) typing
+8/14/2024 11:36:33 PM	Disabling: Exchange ActiveSync and Internet Mail Sync engine
+8/14/2024 11:36:39 PM	Disabling: Math Recognizer
+8/14/2024 11:36:45 PM	Disabling: Media Features
+8/14/2024 11:36:49 PM	Disabling: Microsoft Paint (App)
+8/14/2024 11:36:55 PM	Disabling: Microsoft Quick Assist (App)
+8/14/2024 11:37:01 PM	Disabling: Microsoft XPS Document Writer
+8/14/2024 11:37:02 PM	Disabling: Notepad
+8/14/2024 11:37:07 PM	Disabling: OpenSSH Client
+8/14/2024 11:37:12 PM	Disabling: Print Management
+8/14/2024 11:37:17 PM	Disabling: Remote Desktop Connection
+8/14/2024 11:37:19 PM	Disabling: Snipping Tool (App)
+8/14/2024 11:37:20 PM	Disabling: Steps Recorder
+8/14/2024 11:37:25 PM	Disabling: Windows Fax and Scan
+8/14/2024 11:37:31 PM	Disabling: Windows Feature Experience Pack
+8/14/2024 11:37:36 PM	Disabling: Windows Hello Face Legacy Resources
+8/14/2024 11:37:41 PM	Disabling: Windows Hello Face
+8/14/2024 11:37:46 PM	Disabling: Windows Media Player Legacy (App)
+8/14/2024 11:37:50 PM	Disabling: Windows Search
+8/14/2024 11:37:52 PM	Disabling: WordPad
+8/14/2024 11:37:56 PM	 - DCL
+8/14/2024 11:37:56 PM	- DS
+8/14/2024 11:37:56 PM	Deleting temporary files: C:\Users\Super\AppData\Local\Temp\NLTmpScratch\NLTmpS
+8/14/2024 11:37:56 PM	# 
+8/14/2024 11:37:57 PM	Cleaning - TD
+8/14/2024 11:37:57 PM	- UnReg (di:0)
+8/14/2024 11:37:57 PM	Windows 10 Professional 22H2 x64 - 10.0.19045.3803
+8/14/2024 11:37:57 PM	Reading data: Windows 10 Professional 22H2 x64 - 10.0.19045.3803 (en-US)
+8/14/2024 11:37:57 PM	- Gather hardware lists
+8/14/2024 11:37:57 PM	- Gather packages
+8/14/2024 11:37:58 PM	 - Package sorting
+8/14/2024 11:37:58 PM	 - Connecting PBC
+8/14/2024 11:37:58 PM	- Filtering packages
+8/14/2024 11:37:59 PM	- Gather existing drivers
+8/14/2024 11:37:59 PM	- Gather services
+8/14/2024 11:37:59 PM	- Gather driver services
+8/14/2024 11:38:00 PM	- Gather scheduled tasks
+8/14/2024 11:38:00 PM	- Gather components
+8/14/2024 11:38:00 PM	- Gather languages
+8/14/2024 11:38:00 PM	- Gather keyboards
+8/14/2024 11:38:00 PM	- Gather fonts
+8/14/2024 11:38:01 PM	- Connect drivers
+8/14/2024 11:38:01 PM	- Gather tweaks
+8/14/2024 11:38:01 PM	Skipping EventLog-Application due to setup requirement
+8/14/2024 11:38:01 PM	Skipping EventLog-Security due to setup requirement
+8/14/2024 11:38:01 PM	Skipping EventLog-System due to setup requirement
+8/14/2024 11:38:01 PM	- Gather unattended data
+8/14/2024 11:38:01 PM		- Timezones
+8/14/2024 11:38:01 PM		- Keyboards
+8/14/2024 11:38:01 PM		- Locales
+8/14/2024 11:38:01 PM	- Gather unattended options
+8/14/2024 11:38:01 PM	# 
+8/14/2024 11:38:01 PM		-Loading components
+8/14/2024 11:38:01 PM	- Apply compatibility options
+8/14/2024 11:38:01 PM		-Loading features
+8/14/2024 11:38:01 PM		-Loading drivers
+8/14/2024 11:38:01 PM		-Loading unattended
+8/14/2024 11:38:01 PM	- Gather unattended options
+8/14/2024 11:38:01 PM		-Loading tweaks
+8/14/2024 11:38:01 PM		-Loading execution list
+8/14/2024 11:38:01 PM	- Gather existing Post-Setup Machine
+8/14/2024 11:38:01 PM	- Gather existing Post-Setup User
+8/14/2024 11:38:01 PM		-Loading registry list
+8/14/2024 11:38:01 PM		-Loading updates
+8/14/2024 11:38:01 PM	# 
+8/14/2024 11:38:01 PM	# 
+8/14/2024 11:38:01 PM	RCT
+8/14/2024 11:38:02 PM	Preparing data
+8/14/2024 11:38:02 PM	 - Pre-loading selected data
+8/14/2024 11:38:02 PM	- section 1
+8/14/2024 11:38:02 PM	- section 2
+8/14/2024 11:38:03 PM	- section 3
+8/14/2024 11:38:03 PM	- section 4
+8/14/2024 11:38:03 PM	- section 4.1
+8/14/2024 11:38:03 PM	- section 5
+8/14/2024 11:38:03 PM	- section 6
+8/14/2024 11:38:03 PM	- section 7
+8/14/2024 11:38:04 PM	- section 8
+8/14/2024 11:38:04 PM	- section 9
+8/14/2024 11:38:04 PM	Preparing data
+8/14/2024 11:38:04 PM	 - RDS
+8/14/2024 11:38:04 PM	Stack %%SystemRoot%%\winsxs\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.19041.3745_none_7ded3f327ca60a41
+8/14/2024 11:38:04 PM	RDS clean 0
+8/14/2024 11:38:04 PM	 - Collect
+8/14/2024 11:38:22 PM	 - PMR
+8/14/2024 11:38:22 PM	RAEC
+8/14/2024 11:38:22 PM	Functionality guard
+8/14/2024 11:38:22 PM	- static
+8/14/2024 11:38:22 PM	- kept components
+8/14/2024 11:38:28 PM	Disable cw
+8/14/2024 11:38:30 PM	Removing components
+8/14/2024 11:38:30 PM	- UnReg (di:1)
+8/14/2024 11:38:30 PM	Removing: Microsoft  |  scsidev.inf
+8/14/2024 11:38:30 PM	Done - 0.1 MB (Microsoft  |  scsidev.inf)
+
+8/14/2024 11:38:30 PM	Removing: 3D Viewer
+8/14/2024 11:38:30 PM	Preparing DISM
+8/14/2024 11:38:30 PM	- DI
+8/14/2024 11:38:30 PM	DA 10.0.22621.3646
+8/14/2024 11:38:30 PM	- UnReg (di:1)
+8/14/2024 11:38:33 PM	Done (3D Viewer)
+
+8/14/2024 11:38:33 PM	Removing: Add Folder Suggestions dialog
+8/14/2024 11:38:33 PM	Done - 0.8 MB (Add Folder Suggestions dialog)
+
+8/14/2024 11:38:33 PM	Removing: App Resolver
+8/14/2024 11:38:33 PM	Done - 0.5 MB (App Resolver)
+
+8/14/2024 11:38:33 PM	Removing: Assigned Access Lock app
+8/14/2024 11:38:33 PM	Done - 0.5 MB (Assigned Access Lock app)
+
+8/14/2024 11:38:33 PM	Removing: AsyncTextService
+8/14/2024 11:38:34 PM	Done - 0.6 MB (AsyncTextService)
+
+8/14/2024 11:38:34 PM	Removing: Call
+8/14/2024 11:38:34 PM	Done - 1.3 MB (Call)
+
+8/14/2024 11:38:34 PM	Removing: Captive Portal Flow
+8/14/2024 11:38:34 PM	Done - 0.7 MB (Captive Portal Flow)
+
+8/14/2024 11:38:34 PM	Removing: Capture Picker
+8/14/2024 11:38:35 PM	Done - 1.0 MB (Capture Picker)
+
+8/14/2024 11:38:35 PM	Removing: Content Delivery Manager
+8/14/2024 11:38:35 PM	Done - 9.0 MB (Content Delivery Manager)
+
+8/14/2024 11:38:35 PM	Removing: Cortana
+8/14/2024 11:38:36 PM	Error 5 at setting component registry entry: 4 | SOFTWARE\Microsoft\Windows\CurrentVersion\Search | CortanaConsent.
+8/14/2024 11:38:36 PM	Error 5 at processing registry
+8/14/2024 11:38:36 PM	Cortana - [5] Access is denied.
+8/14/2024 11:38:36 PM	Removing: Credential Dialog
+8/14/2024 11:38:36 PM	Done - 0.4 MB (Credential Dialog)
+
+8/14/2024 11:38:36 PM	Removing: Desktop App Web Viewer
+8/14/2024 11:38:36 PM	Done - 0.1 MB (Desktop App Web Viewer)
+
+8/14/2024 11:38:36 PM	Removing: Eye Control
+8/14/2024 11:38:36 PM	Done - 2.8 MB (Eye Control)
+
+8/14/2024 11:38:36 PM	Removing: Feedback Hub
+8/14/2024 11:38:36 PM	- UnReg (di:0)
+8/14/2024 11:38:38 PM	Done (Feedback Hub)
+
+8/14/2024 11:38:38 PM	Removing: File Explorer (Legacy)
+8/14/2024 11:38:38 PM	Done - 3.3 ¦ 0.002 MB (File Explorer (Legacy))
+
+8/14/2024 11:38:38 PM	Removing: File Picker
+8/14/2024 11:38:38 PM	Done - 1.0 MB (File Picker)
+
+8/14/2024 11:38:38 PM	Removing: Get Help
+8/14/2024 11:38:38 PM	- UnReg (di:0)
+8/14/2024 11:38:39 PM	Done (Get Help)
+
+8/14/2024 11:38:39 PM	Removing: Groove Music
+8/14/2024 11:38:41 PM	Done (Groove Music)
+
+8/14/2024 11:38:41 PM	Removing: HEIF Image Extensions
+8/14/2024 11:38:41 PM	Done - 0.3 ¦ 3.4 MB (HEIF Image Extensions)
+
+8/14/2024 11:38:41 PM	Removing: Mail and Calendar
+8/14/2024 11:38:41 PM	- UnReg (di:0)
+8/14/2024 11:38:43 PM	Done (Mail and Calendar)
+
+8/14/2024 11:38:43 PM	Removing: Microsoft Advertising SDK for XAML
+8/14/2024 11:38:43 PM	Done - 5.6 MB (Microsoft Advertising SDK for XAML)
+
+8/14/2024 11:38:43 PM	Removing: Microsoft Edge DevTools Client
+8/14/2024 11:38:44 PM	Done - 10.6 MB (Microsoft Edge DevTools Client)
+
+8/14/2024 11:38:44 PM	Removing: Microsoft Engagement Framework
+8/14/2024 11:38:45 PM	Done - 1.5 MB (Microsoft Engagement Framework)
+
+8/14/2024 11:38:45 PM	Removing: Microsoft family features
+8/14/2024 11:38:45 PM	Done - 10.7 ¦ 0.001 MB (Microsoft family features)
+
+8/14/2024 11:38:45 PM	Removing: Microsoft Pay
+8/14/2024 11:38:45 PM	- UnReg (di:0)
+8/14/2024 11:38:46 PM	Done (Microsoft Pay)
+
+8/14/2024 11:38:46 PM	Removing: Microsoft People
+8/14/2024 11:38:48 PM	Done (Microsoft People)
+
+8/14/2024 11:38:48 PM	Removing: Microsoft Photos
+8/14/2024 11:38:49 PM	Done (Microsoft Photos)
+
+8/14/2024 11:38:49 PM	Removing: Microsoft Solitaire Collection
+8/14/2024 11:38:50 PM	Done (Microsoft Solitaire Collection)
+
+8/14/2024 11:38:50 PM	Removing: Microsoft Sticky Notes
+8/14/2024 11:38:51 PM	Done (Microsoft Sticky Notes)
+
+8/14/2024 11:38:51 PM	Removing: Microsoft.UI.Xaml.2.0
+8/14/2024 11:38:52 PM	Done - 5.3 MB (Microsoft.UI.Xaml.2.0)
+
+8/14/2024 11:38:52 PM	Removing: Mixed Reality Portal
+8/14/2024 11:38:52 PM	- UnReg (di:0)
+8/14/2024 11:38:53 PM	Done (Mixed Reality Portal)
+
+8/14/2024 11:38:53 PM	Removing: Movies & TV
+8/14/2024 11:38:54 PM	Done (Movies & TV)
+
+8/14/2024 11:38:54 PM	Removing: MSN Weather
+8/14/2024 11:38:55 PM	Done (MSN Weather)
+
+8/14/2024 11:38:55 PM	Removing: Narrator
+8/14/2024 11:38:56 PM	Done - 1.0 MB (Narrator)
+
+8/14/2024 11:38:56 PM	Removing: Network Connection Flow
+8/14/2024 11:38:56 PM	Done - 0.6 MB (Network Connection Flow)
+
+8/14/2024 11:38:56 PM	Removing: Network Connectivity Status Indicator (NCSI)
+8/14/2024 11:38:56 PM	Done - 0.2 MB (Network Connectivity Status Indicator (NCSI))
+
+8/14/2024 11:38:56 PM	Removing: Office
+8/14/2024 11:38:56 PM	- UnReg (di:0)
+8/14/2024 11:38:57 PM	Done (Office)
+
+8/14/2024 11:38:57 PM	Removing: OneNote
+8/14/2024 11:38:59 PM	Done (OneNote)
+
+8/14/2024 11:38:59 PM	Removing: Paint 3D
+8/14/2024 11:39:00 PM	Done (Paint 3D)
+
+8/14/2024 11:39:00 PM	Removing: PinningConfirmationDialog
+8/14/2024 11:39:00 PM	Done - 0.3 MB (PinningConfirmationDialog)
+
+8/14/2024 11:39:00 PM	Removing: Safely Remove Device
+8/14/2024 11:39:00 PM	Done - 0.3 MB (Safely Remove Device)
+
+8/14/2024 11:39:00 PM	Removing: Skype
+8/14/2024 11:39:00 PM	- UnReg (di:0)
+8/14/2024 11:39:02 PM	Done (Skype)
+
+8/14/2024 11:39:02 PM	Removing: Snip & Sketch
+8/14/2024 11:39:03 PM	Done (Snip & Sketch)
+
+8/14/2024 11:39:03 PM	Removing: Store Experience Host
+8/14/2024 11:39:04 PM	Done (Store Experience Host)
+
+8/14/2024 11:39:04 PM	Removing: Take a Test
+8/14/2024 11:39:05 PM	Done - 2.8 ¦ 0.002 MB (Take a Test)
+
+8/14/2024 11:39:05 PM	Removing: Tips (Get Started)
+8/14/2024 11:39:05 PM	- UnReg (di:0)
+8/14/2024 11:39:06 PM	Done (Tips (Get Started))
+
+8/14/2024 11:39:06 PM	Removing: VP9 Video Extensions
+8/14/2024 11:39:06 PM	Done - 0.2 ¦ 5.6 MB (VP9 Video Extensions)
+
+8/14/2024 11:39:06 PM	Removing: Web Media Extensions
+8/14/2024 11:39:06 PM	- UnReg (di:0)
+8/14/2024 11:39:07 PM	Done (Web Media Extensions)
+
+8/14/2024 11:39:07 PM	Removing: Webp Image Extensions
+8/14/2024 11:39:08 PM	Done - 0.08 ¦ 1.0 MB (Webp Image Extensions)
+
+8/14/2024 11:39:08 PM	Removing: Windows Alarms & Clock
+8/14/2024 11:39:08 PM	- UnReg (di:0)
+8/14/2024 11:39:09 PM	Done (Windows Alarms & Clock)
+
+8/14/2024 11:39:09 PM	Removing: Windows Barcode Preview
+8/14/2024 11:39:09 PM	Done - 0.6 MB (Windows Barcode Preview)
+
+8/14/2024 11:39:09 PM	Removing: Windows Calculator
+8/14/2024 11:39:09 PM	- UnReg (di:0)
+8/14/2024 11:39:10 PM	Done (Windows Calculator)
+
+8/14/2024 11:39:10 PM	Removing: Windows Camera
+8/14/2024 11:39:12 PM	Done (Windows Camera)
+
+8/14/2024 11:39:12 PM	Removing: Windows Default Lock Screen
+8/14/2024 11:39:12 PM	Done - 5.2 MB (Windows Default Lock Screen)
+
+8/14/2024 11:39:12 PM	Removing: Windows Defender
+8/14/2024 11:39:14 PM	Done - 216.1 ¦ 100.8 MB (Windows Defender)
+
+8/14/2024 11:39:14 PM	Removing: Windows Hello Setup
+8/14/2024 11:39:14 PM	Done - 2.3 ¦ 0.000824 MB (Windows Hello Setup)
+
+8/14/2024 11:39:14 PM	Removing: Windows Maps
+8/14/2024 11:39:14 PM	- UnReg (di:0)
+8/14/2024 11:39:15 PM	Done (Windows Maps)
+
+8/14/2024 11:39:15 PM	Removing: Windows Shell Experience
+8/14/2024 11:39:16 PM	Done - 3.3 MB (Windows Shell Experience)
+
+8/14/2024 11:39:16 PM	Removing: Windows Voice Recorder
+8/14/2024 11:39:16 PM	- UnReg (di:0)
+8/14/2024 11:39:17 PM	Done (Windows Voice Recorder)
+
+8/14/2024 11:39:17 PM	Removing: Xbox Game Bar Plugin
+8/14/2024 11:39:18 PM	Done (Xbox Game Bar Plugin)
+
+8/14/2024 11:39:18 PM	Removing: Xbox Game Bar
+8/14/2024 11:39:19 PM	Done (Xbox Game Bar)
+
+8/14/2024 11:39:19 PM	Removing: Xbox Game Speech Window
+8/14/2024 11:39:21 PM	Done (Xbox Game Speech Window)
+
+8/14/2024 11:39:21 PM	Removing: Xbox Game UI
+8/14/2024 11:39:21 PM	Done - 1.3 MB (Xbox Game UI)
+
+8/14/2024 11:39:21 PM	Removing: Xbox TCUI
+8/14/2024 11:39:21 PM	- UnReg (di:0)
+8/14/2024 11:39:22 PM	Done (Xbox TCUI)
+
+8/14/2024 11:39:22 PM	Removing: Xbox
+8/14/2024 11:39:23 PM	Done (Xbox)
+
+8/14/2024 11:39:23 PM	Removing: Your Phone
+8/14/2024 11:39:24 PM	Done (Your Phone)
+
+8/14/2024 11:39:24 PM	Removing: .NET assembly cache
+8/14/2024 11:39:27 PM	Done - 83.5 ¦ 300.5 MB (.NET assembly cache)
+
+8/14/2024 11:39:27 PM	Removing: Active Directory Lightweight Directory Services (AD LDS)
+8/14/2024 11:39:28 PM	Done - 0.4 ¦ 0.10 ¦ 0.1 MB (Active Directory Lightweight Directory Services (AD LDS))
+
+8/14/2024 11:39:28 PM	Removing: Amharic
+8/14/2024 11:39:28 PM	Done (Amharic)
+
+8/14/2024 11:39:28 PM	Removing: Application Virtualization (App-V)
+8/14/2024 11:39:28 PM	Done - 20.7 ¦ 0.004 MB (Application Virtualization (App-V))
+
+8/14/2024 11:39:28 PM	Removing: Arabic
+8/14/2024 11:39:28 PM	Done - 0.3 ¦ 0.007 MB (Arabic)
+
+8/14/2024 11:39:28 PM	Removing: Auto-Rotation Manager
+8/14/2024 11:39:28 PM	Done - 0.05 MB (Auto-Rotation Manager)
+
+8/14/2024 11:39:28 PM	Removing: BranchCache Client
+8/14/2024 11:39:28 PM	Done - 7.2 ¦ 0.05 MB (BranchCache Client)
+
+8/14/2024 11:39:28 PM	Removing: Bulgarian
+8/14/2024 11:39:28 PM	Done - 0.5 ¦ 0.007 MB (Bulgarian)
+
+8/14/2024 11:39:28 PM	Removing: Chinese Simplified
+8/14/2024 11:39:29 PM	Done - 4.5 ¦ 0.008 ¦ 7.8 MB (Chinese Simplified)
+
+8/14/2024 11:39:29 PM	Removing: Chinese Traditional (IME)
+8/14/2024 11:39:29 PM	Done - 17.4 MB (Chinese Traditional (IME))
+
+8/14/2024 11:39:29 PM	Removing: Chinese Traditional
+8/14/2024 11:39:29 PM	Done - 4.5 ¦ 0.008 ¦ 8.4 MB (Chinese Traditional)
+
+8/14/2024 11:39:29 PM	Removing: Croatian
+8/14/2024 11:39:29 PM	Done - 0.5 ¦ 0.007 MB (Croatian)
+
+8/14/2024 11:39:29 PM	Removing: Czech
+8/14/2024 11:39:29 PM	Done - 0.7 ¦ 0.008 MB (Czech)
+
+8/14/2024 11:39:29 PM	Removing: Danish
+8/14/2024 11:39:29 PM	Done - 0.7 ¦ 0.008 MB (Danish)
+
+8/14/2024 11:39:29 PM	Removing: Data Center Bridging (DCB)
+8/14/2024 11:39:29 PM	Done - 0.1 ¦ 0.04 MB (Data Center Bridging (DCB))
+
+8/14/2024 11:39:29 PM	Removing: Device Lockdown (Embedded Experience)
+8/14/2024 11:39:30 PM	Done - 2.9 ¦ 0.1 MB (Device Lockdown (Embedded Experience))
+
+8/14/2024 11:39:30 PM	Removing: Dutch
+8/14/2024 11:39:30 PM	Done - 0.7 ¦ 0.008 MB (Dutch)
+
+8/14/2024 11:39:30 PM	Removing: Ease Of Access Themes
+8/14/2024 11:39:30 PM	Done - 0.010 MB (Ease Of Access Themes)
+
+8/14/2024 11:39:30 PM	Removing: English (GB)
+8/14/2024 11:39:30 PM	Done - 0.5 ¦ 0.007 MB (English (GB))
+
+8/14/2024 11:39:30 PM	Removing: Enhanced Storage
+8/14/2024 11:39:30 PM	Done - 1.5 ¦ 0.000488 MB (Enhanced Storage)
+
+8/14/2024 11:39:30 PM	Removing: Estonian
+8/14/2024 11:39:30 PM	Done - 0.5 ¦ 0.007 MB (Estonian)
+
+8/14/2024 11:39:30 PM	Removing: File Server Resource Manager
+8/14/2024 11:39:31 PM	Done - 5.6 ¦ 0.002 MB (File Server Resource Manager)
+
+8/14/2024 11:39:31 PM	Removing: Finnish
+8/14/2024 11:39:31 PM	Done - 0.7 ¦ 0.008 MB (Finnish)
+
+8/14/2024 11:39:31 PM	Removing: French (Canadian)
+8/14/2024 11:39:31 PM	Done - 0.5 ¦ 0.007 MB (French (Canadian))
+
+8/14/2024 11:39:31 PM	Removing: French
+8/14/2024 11:39:31 PM	Done - 0.7 ¦ 0.008 MB (French)
+
+8/14/2024 11:39:31 PM	Removing: Gaming Peripherals (Xbox GIP)
+8/14/2024 11:39:31 PM	Done - 1.0 MB (Gaming Peripherals (Xbox GIP))
+
+8/14/2024 11:39:31 PM	Removing: German
+8/14/2024 11:39:31 PM	Done - 0.7 ¦ 0.008 MB (German)
+
+8/14/2024 11:39:31 PM	Removing: Greek
+8/14/2024 11:39:31 PM	Done - 0.7 ¦ 0.008 MB (Greek)
+
+8/14/2024 11:39:31 PM	Removing: Hebrew
+8/14/2024 11:39:31 PM	Done - 0.3 ¦ 0.007 MB (Hebrew)
+
+8/14/2024 11:39:31 PM	Removing: HomeGroup
+8/14/2024 11:39:32 PM	Done - 1.1 ¦ 0.008 MB (HomeGroup)
+
+8/14/2024 11:39:32 PM	Removing: Hungarian
+8/14/2024 11:39:32 PM	Done - 0.7 ¦ 0.008 MB (Hungarian)
+
+8/14/2024 11:39:32 PM	Removing: Hyper-V Integration Services
+8/14/2024 11:39:32 PM	Done - 0.8 MB (Hyper-V Integration Services)
+
+8/14/2024 11:39:32 PM	Removing: Internet Authentication Service (IAS)
+8/14/2024 11:39:32 PM	Done - 6.6 MB (Internet Authentication Service (IAS))
+
+8/14/2024 11:39:32 PM	Removing: Internet Explorer - 32 bit
+8/14/2024 11:39:34 PM	Done - 21.8 ¦ 0.000549 MB (Internet Explorer - 32 bit)
+
+8/14/2024 11:39:34 PM	Removing: Internet Information Server (IIS)
+8/14/2024 11:39:35 PM	Done - 1.3 ¦ 0.2 MB (Internet Information Server (IIS))
+
+8/14/2024 11:39:35 PM	Removing: Internet Printing Client
+8/14/2024 11:39:35 PM	Done - 0.3 ¦ 0.002 MB (Internet Printing Client)
+
+8/14/2024 11:39:35 PM	Removing: Italian
+8/14/2024 11:39:35 PM	Done - 0.7 ¦ 0.008 MB (Italian)
+
+8/14/2024 11:39:35 PM	Removing: Japanese (IME)
+8/14/2024 11:39:35 PM	Done - 24.3 MB (Japanese (IME))
+
+8/14/2024 11:39:35 PM	Removing: Japanese
+8/14/2024 11:39:36 PM	Done - 2.9 ¦ 0.008 ¦ 4.5 MB (Japanese)
+
+8/14/2024 11:39:36 PM	Removing: Kernel Debugging
+8/14/2024 11:39:36 PM	Done - 2.6 MB (Kernel Debugging)
+
+8/14/2024 11:39:36 PM	Removing: Korean (IME)
+8/14/2024 11:39:36 PM	Done - 7.9 MB (Korean (IME))
+
+8/14/2024 11:39:36 PM	Removing: Korean
+8/14/2024 11:39:36 PM	Done - 3.2 ¦ 0.008 ¦ 5.4 MB (Korean)
+
+8/14/2024 11:39:36 PM	Removing: Latvian
+8/14/2024 11:39:36 PM	Done - 0.5 ¦ 0.007 MB (Latvian)
+
+8/14/2024 11:39:36 PM	Removing: Lithuanian
+8/14/2024 11:39:36 PM	Done - 0.5 ¦ 0.007 MB (Lithuanian)
+
+8/14/2024 11:39:36 PM	Removing: Location notifications
+8/14/2024 11:39:36 PM	Done - 0.7 MB (Location notifications)
+
+8/14/2024 11:39:36 PM	Removing: Manifest Backup (WinSxS\Backup)
+8/14/2024 11:39:40 PM	Done - 157.3 MB (Manifest Backup (WinSxS\Backup))
+
+8/14/2024 11:39:40 PM	Removing: MultiPoint Connector
+8/14/2024 11:39:40 PM	Done - 0.2 ¦ 0.03 MB (MultiPoint Connector)
+
+8/14/2024 11:39:40 PM	Removing: Network Projection
+8/14/2024 11:39:40 PM	Done - 0.3 ¦ 0.002 MB (Network Projection)
+
+8/14/2024 11:39:40 PM	Removing: Norwegian
+8/14/2024 11:39:40 PM	Done - 0.7 MB (Norwegian)
+
+8/14/2024 11:39:40 PM	Removing: Peer Networking
+8/14/2024 11:39:41 PM	Done - 3.4 MB (Peer Networking)
+
+8/14/2024 11:39:41 PM	Removing: Polish
+8/14/2024 11:39:41 PM	Done - 0.7 MB (Polish)
+
+8/14/2024 11:39:41 PM	Removing: Portuguese (Brazilian)
+8/14/2024 11:39:41 PM	Done - 0.7 MB (Portuguese (Brazilian))
+
+8/14/2024 11:39:41 PM	Removing: Portuguese
+8/14/2024 11:39:41 PM	Done - 0.7 MB (Portuguese)
+
+8/14/2024 11:39:41 PM	Removing: PowerShell ISE - 32 bit
+8/14/2024 11:39:41 PM	Done - 0.3 ¦ 0.003 MB (PowerShell ISE - 32 bit)
+
+8/14/2024 11:39:41 PM	Removing: Print to PDF
+8/14/2024 11:39:41 PM	Done - 0.09 ¦ 0.02 MB (Print to PDF)
+
+8/14/2024 11:39:41 PM	Removing: Remote Assistance
+8/14/2024 11:39:41 PM	Done - 1.5 ¦ 0.02 MB (Remote Assistance)
+
+8/14/2024 11:39:41 PM	Removing: Remote Desktop Services ActiveX Client - 32 bit
+8/14/2024 11:39:41 PM	Done - 7.0 MB (Remote Desktop Services ActiveX Client - 32 bit)
+
+8/14/2024 11:39:41 PM	Removing: Remote Desktop Services Port Redirector
+8/14/2024 11:39:41 PM	Done - 0.6 MB (Remote Desktop Services Port Redirector)
+
+8/14/2024 11:39:41 PM	Removing: Remote Differential Compression (RDC)
+8/14/2024 11:39:41 PM	Done - 0.2 ¦ 0.02 MB (Remote Differential Compression (RDC))
+
+8/14/2024 11:39:41 PM	Removing: RemoteFX
+8/14/2024 11:39:42 PM	Done - 4.6 ¦ 0.09 MB (RemoteFX)
+
+8/14/2024 11:39:42 PM	Removing: Romanian
+8/14/2024 11:39:42 PM	Done - 0.5 MB (Romanian)
+
+8/14/2024 11:39:42 PM	Removing: Russian
+8/14/2024 11:39:42 PM	Done - 0.7 MB (Russian)
+
+8/14/2024 11:39:42 PM	Removing: Serbian
+8/14/2024 11:39:42 PM	Done - 0.5 MB (Serbian)
+
+8/14/2024 11:39:42 PM	Removing: Simple TCP/IP services
+8/14/2024 11:39:42 PM	Done - 0.05 ¦ 0.02 MB (Simple TCP/IP services)
+
+8/14/2024 11:39:42 PM	Removing: Slovak
+8/14/2024 11:39:42 PM	Done - 0.5 MB (Slovak)
+
+8/14/2024 11:39:42 PM	Removing: Slovenian
+8/14/2024 11:39:42 PM	Done - 0.5 MB (Slovenian)
+
+8/14/2024 11:39:42 PM	Removing: SMB Direct (RDMA)
+8/14/2024 11:39:42 PM	Done - 0.2 ¦ 0.02 MB (SMB Direct (RDMA))
+
+8/14/2024 11:39:42 PM	Removing: Spanish
+8/14/2024 11:39:42 PM	Done - 1.2 MB (Spanish)
+
+8/14/2024 11:39:42 PM	Removing: Support directory
+8/14/2024 11:39:43 PM	Done - 0.3 MB (Support directory)
+
+8/14/2024 11:39:43 PM	Removing: Swedish
+8/14/2024 11:39:43 PM	Done - 0.7 MB (Swedish)
+
+8/14/2024 11:39:43 PM	Removing: System Restore
+8/14/2024 11:39:43 PM	Done - 1.4 MB (System Restore)
+
+8/14/2024 11:39:43 PM	Removing: Tamil
+8/14/2024 11:39:43 PM	Done (Tamil)
+
+8/14/2024 11:39:43 PM	Removing: Telnet Client
+8/14/2024 11:39:43 PM	Done - 0.07 ¦ 0.02 MB (Telnet Client)
+
+8/14/2024 11:39:43 PM	Removing: Text prediction
+8/14/2024 11:39:43 PM	Done - 2.5 MB (Text prediction)
+
+8/14/2024 11:39:43 PM	Removing: TFTP client
+8/14/2024 11:39:43 PM	Done - 0.06 ¦ 0.02 MB (TFTP client)
+
+8/14/2024 11:39:43 PM	Removing: Thai
+8/14/2024 11:39:43 PM	Done - 0.2 MB (Thai)
+
+8/14/2024 11:39:43 PM	Removing: Turkish
+8/14/2024 11:39:43 PM	Done - 0.7 MB (Turkish)
+
+8/14/2024 11:39:43 PM	Removing: Ukrainian
+8/14/2024 11:39:43 PM	Done - 0.5 MB (Ukrainian)
+
+8/14/2024 11:39:43 PM	Removing: User Experience Virtualization (UE-V)
+8/14/2024 11:39:44 PM	Done - 17.0 ¦ 0.004 MB (User Experience Virtualization (UE-V))
+
+8/14/2024 11:39:44 PM	Removing: Virtual Private Network (VPN) support
+8/14/2024 11:39:44 PM	Done - 4.0 MB (Virtual Private Network (VPN) support)
+
+8/14/2024 11:39:44 PM	Removing: Wallet Service
+8/14/2024 11:39:44 PM	Done - 1.5 MB (Wallet Service)
+
+8/14/2024 11:39:44 PM	Removing: Webcam Experience
+8/14/2024 11:39:44 PM	Done - 1.9 ¦ 0.004 MB (Webcam Experience)
+
+8/14/2024 11:39:44 PM	Removing: Windows Help content
+8/14/2024 11:39:44 PM	Done - 3.0 ¦ 0.03 MB (Windows Help content)
+
+8/14/2024 11:39:44 PM	Removing: Windows Subsystem for Linux
+8/14/2024 11:39:45 PM	Done - 0.8 ¦ 0.09 MB (Windows Subsystem for Linux)
+
+8/14/2024 11:39:45 PM	Removing: Windows To Go
+8/14/2024 11:39:45 PM	Done - 0.4 MB (Windows To Go)
+
+8/14/2024 11:39:45 PM	Removing: Work Folders Client
+8/14/2024 11:39:45 PM	Done - 3.7 ¦ 0.02 MB (Work Folders Client)
+
+8/14/2024 11:39:45 PM	Removing: Help file support (CHM)
+8/14/2024 11:39:45 PM	Done - 1.1 MB (Help file support (CHM))
+
+8/14/2024 11:39:45 PM	Removing: Input Method Editor (IME)
+8/14/2024 11:39:46 PM	Done - 67.5 MB (Input Method Editor (IME))
+
+8/14/2024 11:39:46 PM	Removing: Microsoft Message Queue (MSMQ)
+8/14/2024 11:39:46 PM	Done - 0.6 ¦ 0.1 MB (Microsoft Message Queue (MSMQ))
+
+8/14/2024 11:39:46 PM	Removing: MobilePC
+8/14/2024 11:39:46 PM	Done - 0.8 MB (MobilePC)
+
+8/14/2024 11:39:46 PM	Removing: PowerShell - 32 bit
+8/14/2024 11:39:48 PM	Done - 7.5 ¦ 1.7 MB (PowerShell - 32 bit)
+
+8/14/2024 11:39:48 PM	Removing: Routing and Remote Access Service
+8/14/2024 11:39:48 PM	Done - 5.0 ¦ 0.009 MB (Routing and Remote Access Service)
+
+8/14/2024 11:39:48 PM	Removing: Sensors
+8/14/2024 11:39:48 PM	Done - 5.5 ¦ 0.01 MB (Sensors)
+
+8/14/2024 11:39:48 PM	Removing: Tablet PC
+8/14/2024 11:39:49 PM	Done - 20.2 ¦ 0.4 MB (Tablet PC)
+
+8/14/2024 11:39:49 PM	 - DCL
+8/14/2024 11:39:49 PM	- UnReg (di:0)
+8/14/2024 11:39:49 PM	- DS
+8/14/2024 11:39:49 PM	Deleting temporary files: C:\Users\Super\AppData\Local\Temp\NLTmpScratch\NLTmpS
+8/14/2024 11:39:49 PM	# 
+8/14/2024 11:40:12 PM	CUCT
+8/14/2024 11:40:13 PM	Cleaning leftover entries
+8/14/2024 11:40:13 PM	Cleaning empty directories
+8/14/2024 11:40:13 PM	# 
+8/14/2024 11:40:13 PM	# 
+8/14/2024 11:40:13 PM	# 
+8/14/2024 11:40:13 PM	# 
+8/14/2024 11:40:13 PM	# 
+8/14/2024 11:40:13 PM	Applying - Tweaks
+8/14/2024 11:40:13 PM	# 
+8/14/2024 11:40:13 PM	# 
+8/14/2024 11:40:13 PM	Applying - Unattended setup
+8/14/2024 11:40:14 PM	Image load: Microsoft Windows Setup (x64) - D:\Windows10_x64_eng\sources\boot.wim
+8/14/2024 11:40:14 PM	SM [m]: D:\Windows10_x64_eng\sources\boot.wim
+8/14/2024 11:40:14 PM	Mounting image: D:\Windows10_x64_eng\sources\boot.wim - Microsoft Windows Setup (x64)
+8/14/2024 11:40:14 PM		Mount dir: C:\Users\Super\AppData\Local\Temp\NLTmpMnt (1)
+8/14/2024 11:40:14 PM	GWH
+8/14/2024 11:40:33 PM	SM [m]: clr
+8/14/2024 11:40:33 PM	Unloading image, discarding changes - D:\Windows10_x64_eng\sources\boot.wim - Microsoft Windows Setup (x64)
+8/14/2024 11:40:33 PM	SM [um]: D:\Windows10_x64_eng\sources\boot.wim
+8/14/2024 11:40:33 PM	- UnReg (di:1)
+8/14/2024 11:41:01 PM	Deleting temporary files: C:\Users\Super\AppData\Local\Temp\NLTmpMnt (1)
+8/14/2024 11:41:01 PM	Deleting temporary files: C:\Users\Super\AppData\Local\Temp\NLTmpMnt (1)_wt
+8/14/2024 11:41:02 PM	Cleaning mount directory
+8/14/2024 11:41:02 PM	SM [um]: clr
+8/14/2024 11:41:02 PM	# 
+8/14/2024 11:41:02 PM	# 
+8/14/2024 11:41:03 PM	Total removed:  682.7 MB Hard links  /  623.4 MB Files  /  26.5 MB ISO Files
+8/14/2024 11:41:03 PM	- UnReg (di:1)
+8/14/2024 11:41:04 PM	- UnReg (di:0)
+8/14/2024 11:41:05 PM	Saving changes to the image - D:\Windows10_x64_eng\sources\install.wim - Windows 10 Professional 22H2 x64 - 10.0.19045.3803 (en-US)
+8/14/2024 11:41:05 PM	SM [um]: D:\Windows10_x64_eng\sources\install.wim
+8/14/2024 11:41:05 PM	- UnReg (di:1)
+8/14/2024 11:50:35 PM	Deleting temporary files: C:\Users\Super\AppData\Local\Temp\NLTmpMnt
+8/14/2024 11:50:35 PM	Deleting temporary files: C:\Users\Super\AppData\Local\Temp\NLTmpMnt_wt
+8/14/2024 11:50:35 PM	Cleaning mount directory
+8/14/2024 11:50:35 PM	SM [um]: clr
+8/14/2024 11:50:35 PM	# 
+8/14/2024 11:50:35 PM	SM [e]: D:\Windows10_x64_eng\sources\install.wim
+8/14/2024 11:50:35 PM	Exporting D:\Windows10_x64_eng\sources\install.wim:1 -> C:\Users\Super\AppData\Local\Temp\NLTmpWExpb6c1f6ff\install.wim
+8/14/2024 11:50:35 PM	 - WG Export
+8/14/2024 11:50:35 PM	GWH
+8/14/2024 11:50:47 PM	Image compression: 2
+8/14/2024 11:50:47 PM	GWH
+8/14/2024 11:51:42 PM	Deleting temporary files: C:\Users\Super\AppData\Local\Temp\NLTmpWEDstae68c1cc
+8/14/2024 11:51:42 PM	Deleting temporary files: C:\Users\Super\AppData\Local\Temp\NLTmpWESrcae68c1cc
+8/14/2024 11:51:42 PM	SM [e]: D:\Windows10_x64_eng\sources\install.wim
+8/14/2024 11:51:42 PM	Exporting D:\Windows10_x64_eng\sources\install.wim:2 -> C:\Users\Super\AppData\Local\Temp\NLTmpWExpb6c1f6ff\install.wim
+8/14/2024 11:51:42 PM	 - WG Export
+8/14/2024 11:51:42 PM	GWH
+8/14/2024 11:51:55 PM	Image compression: 2
+8/14/2024 11:51:55 PM	GWH
+8/14/2024 11:52:17 PM	Deleting temporary files: C:\Users\Super\AppData\Local\Temp\NLTmpWEDst37619076
+8/14/2024 11:52:17 PM	Deleting temporary files: C:\Users\Super\AppData\Local\Temp\NLTmpWESrc37619076
+8/14/2024 11:52:17 PM	SM [e]: D:\Windows10_x64_eng\sources\install.wim
+8/14/2024 11:52:17 PM	Exporting D:\Windows10_x64_eng\sources\install.wim:3 -> C:\Users\Super\AppData\Local\Temp\NLTmpWExpb6c1f6ff\install.wim
+8/14/2024 11:52:17 PM	 - WG Export
+8/14/2024 11:52:17 PM	GWH
+8/14/2024 11:52:29 PM	Image compression: 2
+8/14/2024 11:52:29 PM	GWH
+8/14/2024 11:52:51 PM	Deleting temporary files: C:\Users\Super\AppData\Local\Temp\NLTmpWEDst4066a0e0
+8/14/2024 11:52:51 PM	Deleting temporary files: C:\Users\Super\AppData\Local\Temp\NLTmpWESrc4066a0e0
+8/14/2024 11:52:51 PM	SM [e]: D:\Windows10_x64_eng\sources\install.wim
+8/14/2024 11:52:51 PM	Exporting D:\Windows10_x64_eng\sources\install.wim:4 -> C:\Users\Super\AppData\Local\Temp\NLTmpWExpb6c1f6ff\install.wim
+8/14/2024 11:52:51 PM	 - WG Export
+8/14/2024 11:52:51 PM	GWH
+8/14/2024 11:53:04 PM	Image compression: 2
+8/14/2024 11:53:04 PM	GWH
+8/14/2024 11:53:28 PM	Deleting temporary files: C:\Users\Super\AppData\Local\Temp\NLTmpWEDstde023543
+8/14/2024 11:53:28 PM	Deleting temporary files: C:\Users\Super\AppData\Local\Temp\NLTmpWESrcde023543
+8/14/2024 11:53:28 PM	SM [e]: D:\Windows10_x64_eng\sources\install.wim
+8/14/2024 11:53:28 PM	Exporting D:\Windows10_x64_eng\sources\install.wim:5 -> C:\Users\Super\AppData\Local\Temp\NLTmpWExpb6c1f6ff\install.wim
+8/14/2024 11:53:28 PM	 - WG Export
+8/14/2024 11:53:28 PM	GWH
+8/14/2024 11:53:40 PM	Image compression: 2
+8/14/2024 11:53:40 PM	GWH
+8/14/2024 11:54:04 PM	Deleting temporary files: C:\Users\Super\AppData\Local\Temp\NLTmpWEDsta90505d5
+8/14/2024 11:54:04 PM	Deleting temporary files: C:\Users\Super\AppData\Local\Temp\NLTmpWESrca90505d5
+8/14/2024 11:54:04 PM	SM [e]: D:\Windows10_x64_eng\sources\install.wim
+8/14/2024 11:54:04 PM	Exporting D:\Windows10_x64_eng\sources\install.wim:6 -> C:\Users\Super\AppData\Local\Temp\NLTmpWExpb6c1f6ff\install.wim
+8/14/2024 11:54:04 PM	 - WG Export
+8/14/2024 11:54:04 PM	GWH
+8/14/2024 11:54:16 PM	Image compression: 2
+8/14/2024 11:54:16 PM	GWH
+8/14/2024 11:54:39 PM	Deleting temporary files: C:\Users\Super\AppData\Local\Temp\NLTmpWEDst300c546f
+8/14/2024 11:54:39 PM	Deleting temporary files: C:\Users\Super\AppData\Local\Temp\NLTmpWESrc300c546f
+8/14/2024 11:54:39 PM	SM [e]: D:\Windows10_x64_eng\sources\install.wim
+8/14/2024 11:54:39 PM	Exporting D:\Windows10_x64_eng\sources\install.wim:7 -> C:\Users\Super\AppData\Local\Temp\NLTmpWExpb6c1f6ff\install.wim
+8/14/2024 11:54:39 PM	 - WG Export
+8/14/2024 11:54:39 PM	GWH
+8/14/2024 11:54:53 PM	Image compression: 2
+8/14/2024 11:54:53 PM	GWH
+8/14/2024 11:55:24 PM	Deleting temporary files: C:\Users\Super\AppData\Local\Temp\NLTmpWEDst470b64f9
+8/14/2024 11:55:24 PM	Deleting temporary files: C:\Users\Super\AppData\Local\Temp\NLTmpWESrc470b64f9
+8/14/2024 11:56:45 PM	# 
